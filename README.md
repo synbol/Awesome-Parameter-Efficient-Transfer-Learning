@@ -1,2 +1,1 @@
-# Transfer-Learning-Code
-Transfer Learning Code Library
+# Transfer Learning Code Library
