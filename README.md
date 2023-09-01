@@ -25,6 +25,15 @@
 
 
 ## Papers
+### Survey
+- **Visual Tuning,** Arxiv 2023.
+  
+  *Yu, Bruce XB and Chang, Jianlong and Wang, Haixin and Liu, Lingbo and Wang, Shijie and Wang, Zhiyu and Lin, Junfan and Xie, Lingxi and Li, Haojie and Lin, Zhouchen and others.*
+
+  [[Paper](https://arxiv.org/abs/2305.06061)][Code]
+
+
+
 ### Prompt
 - **Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
