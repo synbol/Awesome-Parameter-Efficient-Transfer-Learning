@@ -95,6 +95,8 @@
 ### Others
 - **Important Channel Tuning,** Openreview.
 
-  *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.* [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
+  *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.*
+
+  [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
 
 
