@@ -48,14 +48,17 @@
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.* [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
   
 ### Parameter
+- **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
+
+  *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu.* [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)]
+
 - **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
   
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.* [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
 
-- **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
 
-  *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu* [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)]
-
+  *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.* [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
 
 ### Unified
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
