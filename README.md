@@ -92,7 +92,7 @@
 
   [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
-- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** ICLR 2022.
+- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
 
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
