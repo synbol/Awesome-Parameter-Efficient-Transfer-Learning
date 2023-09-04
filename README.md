@@ -92,6 +92,12 @@
 
   [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
+- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** ICLR 2022.
+
+  *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
+
+  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+
 ### Others
 - **Important Channel Tuning,** Openreview.
 
