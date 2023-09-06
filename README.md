@@ -51,6 +51,18 @@ Coming soon....
   [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
 
 ### Adapter
+- **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
+  
+  *Mahabadi, Rabeeh Karimi and Ruder, Sebastian and Dehghani, Mostafa and Henderson, James.*
+
+  [[Paper](https://arxiv.org/abs/2106.04489)][[Code](https://github.com/rabeehk/hyperformer)]
+  
+- **Compacter: Efficient Low-Rank Hypercomplex Adapter Layer,** NeurIPS 2021.
+  
+  *Karimi Mahabadi, Rabeeh and Henderson, James and Ruder, Sebastian.*
+
+  [[Paper](https://arxiv.org/abs/2106.04647)][[Code](https://github.com/rabeehk/compacter)]
+
 - **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
