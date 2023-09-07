@@ -50,6 +50,13 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
 
+- **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
+  
+  *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
+
+  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
+ 
+
 ### Adapter
 - **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
   
@@ -99,6 +106,18 @@ Coming soon....
   *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
 
   [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
+
+- **Parameter-efficient Model Adaptation for Vision Transformers.** AAAI 2023.
+
+  *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
+
+  [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
+
+- **Vision transformer adapter for dense predictions.** AAAI 2023.
+
+  *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
+
+  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
 
 ### Unified
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
