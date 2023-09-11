@@ -82,11 +82,20 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2210.03265)][Code]
 
+- **Parameter-efficient and student-friendly knowledge distillation,** NeurIPS 2022.
+  
+  *Rao, Jun and Meng, Xv and Ding, Liang and Qi, Shuhan and Tao, Dacheng.*
+
+  [[Paper](https://arxiv.org/abs/2205.15308)][Code]
+  
+
 - **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** ArXiv2023.
   
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.*
 
   [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
+
+
   
 ### Parameter
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
