@@ -146,7 +146,7 @@ Coming soon....
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper]([https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
+  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
 - **Important Channel Tuning,** Openreview 2023.
 
