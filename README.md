@@ -100,6 +100,11 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2205.15308)][Code]
   
+- **1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions,** CVPR 2023.
+  
+  *Yin, Dongshuo and Yang, Yiran and Wang, Zhechao and Yu, Hongfeng and Wei, Kaiwen and Sun, Xian.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code]
 
 - **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** ArXiv2023.
   
