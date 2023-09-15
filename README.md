@@ -60,8 +60,14 @@ Coming soon....
   
   *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and Zhang, Baofeng and Xiong, Zhiwei and Gui, Chenguang.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][[Code]()]
- 
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
+
+- **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
+  
+  *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
+
+  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
+  
 
 ### Adapter
 - **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
