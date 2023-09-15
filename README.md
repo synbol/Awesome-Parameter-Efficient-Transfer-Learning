@@ -55,6 +55,12 @@ Coming soon....
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
 
   [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
+
+- **Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
+  
+  *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and Zhang, Baofeng and Xiong, Zhiwei and Gui, Chenguang.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][[Code]()]
  
 
 ### Adapter
