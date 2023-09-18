@@ -171,6 +171,10 @@ Coming soon....
 
   [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
 
+- **Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm,** Arxiv 2023.
 
+  *Zhao, Hengyuan and Luo, Hao and Zhao, Yuyang and Wang, Pichao and Wang, Fan and Shou, Mike Zheng.*
+
+  [[Paper](https://arxiv.org/abs/2303.07910)][Code]
 
 
