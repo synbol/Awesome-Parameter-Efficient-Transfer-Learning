@@ -106,11 +106,19 @@ Coming soon....
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code]
 
+- **Vision transformer adapter for dense predictions.** ICLR 2023.
+
+  *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
+
+  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
+  
+
 - **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** ArXiv2023.
   
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.*
 
   [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
+
 
 
   
@@ -139,11 +147,7 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
 
-- **Vision transformer adapter for dense predictions.** AAAI 2023.
 
-  *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
-
-  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
 
 ### Unified
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
