@@ -50,6 +50,12 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
 
+- **Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
+  
+  *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and Zhao, Zhe and Li, YaGuang and Chen, Zhao and Metzler, Donald and others.*
+
+  [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
+
 - **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
   
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
@@ -62,17 +68,21 @@ Coming soon....
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
 
-- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
-  
-  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
-
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][Code]
 
 - **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
   
   *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
 
-  [[Paper](https://arxiv.org/abs/2303.01788)][[Code](https://github.com/fanrena/DPT)]
+  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
+
+- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
+  
+  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
+
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
+
+
+
   
 
 ### Adapter
