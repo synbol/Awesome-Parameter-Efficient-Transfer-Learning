@@ -62,11 +62,17 @@ Coming soon....
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
 
+- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
+  
+  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
+
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][Code]
+
 - **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
   
   *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
 
-  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
+  [[Paper](https://arxiv.org/abs/2303.01788)][[Code](https://github.com/fanrena/DPT)]
   
 
 ### Adapter
