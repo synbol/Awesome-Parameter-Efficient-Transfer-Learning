@@ -115,6 +115,12 @@ Coming soon....
   *Rao, Jun and Meng, Xv and Ding, Liang and Qi, Shuhan and Tao, Dacheng.*
 
   [[Paper](https://arxiv.org/abs/2205.15308)][Code]
+
+- **Vl-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
+  
+  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
+
+  [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)]
   
 - **1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions,** CVPR 2023.
   
