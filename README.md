@@ -37,7 +37,7 @@ Coming soon....
 
 
 
-### Prompt
+### Prompt Tuning
 - **Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
@@ -85,7 +85,7 @@ Coming soon....
 
   
 
-### Adapter
+### Adapter Tuning
 - **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
   
   *Mahabadi, Rabeeh Karimi and Ruder, Sebastian and Dehghani, Mostafa and Henderson, James.*
@@ -141,10 +141,28 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
 
+### Importace Channel Tuning
+- **Important Channel Tuning,** Openreview 2023.
+
+  *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.*
+
+  [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
+
+- **Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm,** Arxiv 2023.
+
+  *Zhao, Hengyuan and Luo, Hao and Zhao, Yuyang and Wang, Pichao and Wang, Fan and Shou, Mike Zheng.*
+
+  [[Paper](https://arxiv.org/abs/2303.07910)][Code]
+
+- **SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels,** IJCV 2023.
+
+  *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
+
+  [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
 
 
   
-### Parameter
+### Parameter Tuning
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu.*
@@ -191,16 +209,5 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
-- **Important Channel Tuning,** Openreview 2023.
-
-  *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.*
-
-  [[Paper](https://openreview.net/forum?id=TTMyoOdB9hZ)][Code]
-
-- **Revisit Parameter-Efficient Transfer Learning: A Two-Stage Paradigm,** Arxiv 2023.
-
-  *Zhao, Hengyuan and Luo, Hao and Zhao, Yuyang and Wang, Pichao and Wang, Fan and Shou, Mike Zheng.*
-
-  [[Paper](https://arxiv.org/abs/2303.07910)][Code]
 
 
