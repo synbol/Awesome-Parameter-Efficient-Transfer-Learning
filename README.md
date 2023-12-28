@@ -88,6 +88,12 @@ Coming soon....
 
   [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
 
+- **MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
+  
+  *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
+
+  [[Paper](https://arxiv.org/abs/2312.08636)][[Code]()]
+
 
 
 
@@ -167,6 +173,18 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
 
+- **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
+
+  *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
+
+  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
+
+- **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
+
+  *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
+
+  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
+  
 
   
 ### Parameter Tuning
