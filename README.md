@@ -191,6 +191,12 @@ Coming soon....
   
   [[Paper](https://arxiv.org/pdf/2311.17112.pdf)][Code]
 
+- **Hydra: Multi-head Low-rank Adaptation for Parameter Efficient Fine-tuning,** Arxiv 2023.
+
+  *Sanghyeon Kim, Hyunmo Yang, Younghyun Kim, Youngjoon Hong, Eunbyung Park.*
+  
+  [[Paper](https://arxiv.org/abs/2309.06922)][[Code](https://github.com/extremebird/Hydra/tree/main)]
+
 
 
   
