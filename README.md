@@ -141,7 +141,6 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
 
-### Importace Channel Tuning
 - **Important Channel Tuning,** Openreview 2023.
 
   *Hengyuan Zhao, Pichao WANG, Yuyang Zhao, Fan Wang, Mike Zheng Shou.*
