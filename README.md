@@ -233,6 +233,11 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2312.10136)][[Code]()]
 
+- **Three things everyone should know about Vision Transformers,** ECCV 2022.
+  
+  *Hugo Touvron, Matthieu Cord, Alaaeldin El-Nouby, Jakob Verbeek, Hervé Jégou.*
+
+  [[Paper](https://arxiv.org/abs/2203.09795)][[Code]()]
 
 
 
