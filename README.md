@@ -82,6 +82,14 @@ Coming soon....
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
 
 
+- **Tokenize Anything via Prompting,** Arxiv 2023.
+  
+  *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
+
+  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
+
+
+
 
   
 
