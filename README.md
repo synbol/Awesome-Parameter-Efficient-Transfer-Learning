@@ -239,6 +239,13 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2203.09795)][[Code]()]
 
+- **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning,** ICCV 2023.
+  
+  *Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang.*
+
+  [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
+
+
 
 
 ### Re-Parameter Tuning
