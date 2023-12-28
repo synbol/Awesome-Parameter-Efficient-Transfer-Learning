@@ -249,5 +249,9 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
+- **GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction,** Arxiv 2023.
 
+  *Jiacheng Ruan, Jingsheng Gao, Mingye Xie, Suncheng Xiang, Zefang Yu, Ting Liu, Yuzhuo Fu.*
+
+  [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code]()
 
