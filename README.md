@@ -255,3 +255,10 @@ Coming soon....
 
   [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code]()
 
+- **Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models,** AAAI 2024.
+
+  *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
+
+  [[Paper](https://arxiv.org/abs/2310.03059)][Code]()
+
+
