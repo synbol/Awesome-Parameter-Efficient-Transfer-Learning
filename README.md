@@ -197,6 +197,23 @@ Coming soon....
   
   [[Paper](https://arxiv.org/abs/2309.06922)][[Code](https://github.com/extremebird/Hydra/tree/main)]
 
+- **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
+
+  *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
+  
+  [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
+
+- **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** Arxiv 2023.
+
+  *Jingjing Jiang, Nanning Zheng.*
+  
+  [[Paper](https://web3.arxiv.org/abs/2303.01239)][Code]
+
+- **Vision Transformers are Parameter-Efficient Audio-Visual Learners,** CVPR 2023.
+
+  *Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius.*
+  
+  [[Paper](https://ieeexplore.ieee.org/document/10203390/authors#authors)][Code]
 
 
   
