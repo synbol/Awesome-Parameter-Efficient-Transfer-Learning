@@ -245,6 +245,14 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
 
+- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
+  
+  *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
+
+  [[Paper](https://arxiv.org/abs/2304.06648)][[Code]()]
+
+
+
 
 
 
