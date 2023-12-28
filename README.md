@@ -184,6 +184,15 @@ Coming soon....
   *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
 
   [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
+
+- **Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model,** Arxiv 2023.
+
+  *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, and Wei Shen.*
+  
+  [[Paper](https://arxiv.org/pdf/2311.17112.pdf)][Code]
+
+
+
   
 
   
