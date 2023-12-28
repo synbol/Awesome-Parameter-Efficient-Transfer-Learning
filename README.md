@@ -303,4 +303,10 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2310.03059)][Code]()
 
+- **AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models,** Arxiv 2023.
+
+  *Hang Guo, Tao Dai, Yuanchao Bai, Bin Chen, Shu-Tao Xia, Zexuan Zhu.*
+
+  [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][Code](https://github.com/csguoh/AdaptIR)]
+
 
