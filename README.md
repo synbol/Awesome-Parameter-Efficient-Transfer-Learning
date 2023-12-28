@@ -233,6 +233,9 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2312.10136)][[Code]()]
 
+
+
+
 ### Re-Parameter Tuning
 
 - **SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
@@ -240,6 +243,12 @@ Coming soon....
   *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
 
   [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
+
+- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+  
+  *Samyadeep Basu, Daniela Massiceti, Shell Xu Hu, Soheil Feizi.*
+
+  [[Paper]([https://arxiv.org/abs/2308.14604](https://arxiv.org/abs/2304.01917))][[Code]()]
 
 
 ### Unified
