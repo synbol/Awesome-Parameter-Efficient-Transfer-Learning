@@ -270,6 +270,11 @@ Coming soon....
 
   [[Paper]([https://arxiv.org/abs/2308.14604](https://arxiv.org/abs/2304.01917))][[Code]()]
 
+- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
+  
+  *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
+
+  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
 
 ### Unified
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
