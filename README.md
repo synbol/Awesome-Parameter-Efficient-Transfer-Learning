@@ -194,6 +194,12 @@ Coming soon....
 
   [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
 
+- **Gradient-based Parameter Selection for Efficient Fine-Tuning,** Arxiv 2022.
+  
+  *Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2312.10136)][[Code]()]
+
 
 
 ### Unified
