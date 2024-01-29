@@ -159,12 +159,104 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)]
 
+- **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** Arxiv 2023.
+
+  *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and Shan, Ying and Qie, Xiaohu.*
+  
+  [[Paper](https://arxiv.org/abs/2302.08453)][[Code](https://github.com/TencentARC/T2I-Adapter)]
+
+- **I2V-Adapter: A General Image-to-Video Adapter for Video Diffusion Models,** Arxiv 2023.
+
+  *Guo, Xun and Zheng, Mingwu and Hou, Liang and Gao, Yuan and Deng, Yufan and others.*
+  
+  [[Paper](https://arxiv.org/abs/2312.16693)][[Code](https://github.com/I2V-Adapter/I2V-Adapter-repo)]
+
 ### Prompt Tuning
 - **Visual Prompt Tuning,** ECCV 2022.
   
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
   [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
+
+- **Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
+  
+  *Gao, Yunhe and Shi, Xingjian and Zhu, Yi and Wang, Hao and Tang, Zhiqiang and Zhou, Xiong and Li, Mu and Metaxas, Dimitris N.*
+
+  [[Paper](https://arxiv.org/abs/2203.12119)][Code]
+
+- **LPT: Long-tailed Prompt Tuning for Image Classification,** ICLR 2023.
+  
+  *Dong, Bowen and Zhou, Pan and Yan, Shuicheng and Zuo, Wangmeng.*
+
+  [[Paper](https://arxiv.org/abs/2210.01033)][[Code](https://github.com/DongSky/LPT)]
+
+- **Pro-tuning: Unified Prompt Tuning for Vision Tasks,** TCSVT 2023.
+  
+  *Nie, Xing and Ni, Bolin and Chang, Jianlong and Meng, Gaofeng and Huo, Chunlei and Xiang, Shiming and Tian, Qi.*
+
+  [[Paper](https://arxiv.org/abs/2207.14381)][Code]
+
+- **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
+  
+  *Zha, Yaohua and Wang, Jinpeng and Dai, Tao and Chen, Bin and Wang, Zhi and Xia, Shu-Tao.*
+
+  [[Paper](https://arxiv.org/pdf/2304.07221.pdf)][[Code](https://github.com/zyh16143998882/ICCV23-IDPT)]
+
+- **Visual Prompt Multi-Modal Tracking,** CVPR 2023.
+  
+  *Zhu, Jiawen and Lai, Simiao and Chen, Xin and Wang, Dong and Lu, Huchuan.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)][[Code](https://github.com/jiawen-zhu/ViPT)]
+
+- **LION: Implicit Vision Prompt Tuning,** AAAI 2024.
+  
+  *Wang, Haixin and Chang, Jianlong and Luo, Xiao and Sun, Jinan and Lin, Zhouchen and Tian, Qi.*
+
+  [[Paper](https://arxiv.org/abs/2303.09992)][Code]
+
+
+- **Convolutional Visual Prompt for Robust Visual Perception,** NeurIPS 2023.
+  
+  *Tsai, Yun-Yun and Mao, Chengzhi and Yang, Junfeng.*
+
+  [[Paper](https://openreview.net/forum?id=qgmrC8jhCo)][Code]
+
+
+- **ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,**  2023.
+  
+  *Hu, Shishuai and Liao, Zehui and Xia, Yong.*
+
+  [[Paper](https://arxiv.org/abs/2211.11514)][[Code](https://github.com/ShishuaiHu/ProSFDA)]
+
+- **Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023.
+  
+  *Liu, Weihuang and Shen, Xi and Pun, Chi-Man and Cun, Xiaodong.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)][[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
+
+- **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** NeurIPS 2022.
+  
+  *Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie and Lu, Jiwen.*
+
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)][[Code](https://github.com/wangzy22/P2P)]
+
+- **Exploring Visual Prompts for Adapting Large-Scale Models,** Arxiv 2022.
+  
+  *Bahng, Hyojin and Jahanian, Ali and Sankaranarayanan, Swami and Isola, Phillip.*
+
+  [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://hjbahng.github.io/visual_prompting/)]
+
+- **Unleashing the Power of Visual Prompting At the Pixel Level,** Arxiv 2023.
+  
+  *Wu, Junyang and Li, Xianhang and Wei, Chen and Wang, Huiyu and Yuille, Alan and Zhou, Yuyin and Xie, Cihang.*
+
+  [[Paper](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/UCSC-VLAA/EVP)]
+
+- **Understanding and Improving Visual Prompting: A Label-Mapping Perspective,** CVPR 2023.
+  
+  *Chen, Aochuan and Yao, Yuguang and Chen, Pin-Yu and Zhang, Yihua and Liu, Sijia.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)]
 
 - **Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
@@ -212,7 +304,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
 
-  [[Paper](https://arxiv.org/abs/2312.08636)][[Code]()]
+  [[Paper](https://arxiv.org/abs/2312.08636)][Code]
 
 ### Prefix Tuning
 
