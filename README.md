@@ -15,21 +15,21 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   - [Overeview]()
   
-  - [Addition-Based Fine-Tuning](#addition-based fine-tuning)
-    - [Adapter Tuning](#adapter tuning)
+  - [Addition-Based Fine-Tuning](#addition-based-fine-tuning)
+    - [Adapter Tuning](#adapter-tuning)
   
-    - [Prompt Tuning](#prompt tuning)
+    - [Prompt Tuning](#prompt-tuning)
   
-    - [Prefix Tuning](#prefix tuning)
+    - [Prefix Tuning](#prefix-tuning)
   
-    - [Side Tuning](#side tuning)
+    - [Side Tuning](#side-tuning)
   
-  - [Partial-Based Fine-Tuning](#partial-based fine-tuning)
-    - [Specification Tuning](#specification tuning)
+  - [Partial-Based Fine-Tuning](#partial-based-fine-tuning)
+    - [Specification Tuning](#specification-tuning)
     
-    - [Repatameter Tuning](#repatameter tuning)
+    - [Repatameter Tuning](#repatameter-tuning)
   
-  - [Unified Fine-Tuning](#unified fine-tuning)
+  - [Unified Fine-Tuning](#unified-fine-tuning)
 
 - [Applications]()
 
