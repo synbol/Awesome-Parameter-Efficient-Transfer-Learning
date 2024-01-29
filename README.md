@@ -562,7 +562,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
+  <img src="" />
 </a>
 
 ## Citation
