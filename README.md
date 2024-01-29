@@ -13,7 +13,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Papers]()
 
-  - [Overeview]()
+  - [Overeview](#overeview)
   
   - [Addition-Based Fine-Tuning](#addition-based-fine-tuning)
     - [Adapter Tuning](#adapter-tuning)
@@ -33,16 +33,12 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Applications]()
 
-## Overeview
-![avatar](.png)
-
-
-
-
 ## Background & Problem
 
 
 ## Papers
+## Overeview
+![avatar](Overeview.png)
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
 - **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
