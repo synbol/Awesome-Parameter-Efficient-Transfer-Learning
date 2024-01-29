@@ -4,7 +4,7 @@ This is a curated list of research resources in `Parameter-Efficient Fine-tuning
 
 The repository is actively maintained. Pull requests or direct messages are welcome.
 
-<b><font size=5 color="red" face="黑体">Visual PEFT Library/Benchmark is coming soon.</font></b>
+$\color{#FF0000}{Visual PEFT Library/Benchmark is coming soon...}$
 
 ## Table of Contents
 - [Background & Problem]()
