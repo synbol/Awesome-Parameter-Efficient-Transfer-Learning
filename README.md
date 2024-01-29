@@ -51,20 +51,35 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
 
-
-- **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
+- **Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
   
-  *Mahabadi, Rabeeh Karimi and Ruder, Sebastian and Dehghani, Mostafa and Henderson, James.*
+  *Jie, Shibo and Deng, Zhi-Hong.*
 
-  [[Paper](https://arxiv.org/abs/2106.04489)][[Code](https://github.com/rabeehk/hyperformer)]
+  [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
+
+- **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
   
-- **Compacter: Efficient Low-Rank Hypercomplex Adapter Layer,** NeurIPS 2021.
+  *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
+
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/st-adapter)]
+
+- **AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
   
-  *Karimi Mahabadi, Rabeeh and Henderson, James and Ruder, Sebastian.*
+  *Yang, Taojiannan and Zhu, Yi and Xie, Yusheng and Zhang, Aston and Chen, Chen and Li, Mu.*
 
-  [[Paper](https://arxiv.org/abs/2106.04647)][[Code](https://github.com/rabeehk/compacter)]
+  [[Paper](https://arxiv.org/abs/2302.03024)][[Code](https://adapt-image-models.github.io/)]
 
+- **Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,** ICLR 2023.
+  
+  *Sharma, Mohit and Fantacci, Claudio and Zhou, Yuxiang and Koppula, Skanda and Heess, Nicolas and Scholz, Jon and Aytar, Yusuf.*
 
+  [[Paper](https://arxiv.org/abs/2304.06600)][[Code](https://sites.google.com/view/robo-adapters/)]
+
+- **1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions,** CVPR 2023.
+  
+  *Yin, Dongshuo and Yang, Yiran and Wang, Zhechao and Yu, Hongfeng and Wei, Kaiwen and Sun, Xian.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code]
 
 - **Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,** NeurIPS 2022.
   
@@ -72,36 +87,17 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2210.03265)][Code]
 
-- **Parameter-efficient and student-friendly knowledge distillation,** NeurIPS 2022.
-  
-  *Rao, Jun and Meng, Xv and Ding, Liang and Qi, Shuhan and Tao, Dacheng.*
+- **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
 
-  [[Paper](https://arxiv.org/abs/2205.15308)][Code]
+  *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
 
-- **Vl-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
-  
-  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
+  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
 
-  [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)]
-  
-- **1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions,** CVPR 2023.
-  
-  *Yin, Dongshuo and Yang, Yiran and Wang, Zhechao and Yu, Hongfeng and Wei, Kaiwen and Sun, Xian.*
+- **SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels,** IJCV 2023.
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code]
+  *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
 
-- **Vision transformer adapter for dense predictions.** ICLR 2023.
-
-  *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
-
-  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
-  
-
-- **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** ArXiv2023.
-  
-  *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.*
-
-  [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
+  [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
 
 - **Important Channel Tuning,** Openreview 2023.
 
@@ -115,17 +111,29 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2303.07910)][Code]
 
-- **SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels,** IJCV 2023.
+- **Compacter: Efficient Low-Rank Hypercomplex Adapter Layer,** NeurIPS 2021.
+  
+  *Karimi Mahabadi, Rabeeh and Henderson, James and Ruder, Sebastian.*
 
-  *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
+  [[Paper](https://arxiv.org/abs/2106.04647)][[Code](https://github.com/rabeehk/compacter)]
 
-  [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
+- **Parameter-efficient and student-friendly knowledge distillation,** NeurIPS 2022.
+  
+  *Rao, Jun and Meng, Xv and Ding, Liang and Qi, Shuhan and Tao, Dacheng.*
 
-- **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
+  [[Paper](https://arxiv.org/abs/2205.15308)][Code]
 
-  *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
+- **VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
+  
+  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
+  [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)]
+  
+- **UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** AAAI 2024.
+  
+  *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.*
+
+  [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)]
 
 - **Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model,** Arxiv 2023.
 
@@ -139,23 +147,17 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://arxiv.org/abs/2309.06922)][[Code](https://github.com/extremebird/Hydra/tree/main)]
 
-- **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
-
-  *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
-  
-  [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
-
-- **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** Arxiv 2023.
+- **MixPHM: Redundancy-Aware Parameter-Efficient Tuning for Low-Resource Visual Question Answering,** CVPR 2023.
 
   *Jingjing Jiang, Nanning Zheng.*
   
-  [[Paper](https://web3.arxiv.org/abs/2303.01239)][Code]
+  [[Paper](https://web3.arxiv.org/abs/2303.01239)][[Code](https://github.com/jingjing12110/MixPHM)]
 
 - **Vision Transformers are Parameter-Efficient Audio-Visual Learners,** CVPR 2023.
 
   *Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius.*
   
-  [[Paper](https://ieeexplore.ieee.org/document/10203390/authors#authors)][Code]
+  [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)]
 
 ### Prompt Tuning
 - **Visual Prompt Tuning,** ECCV 2022.
@@ -221,7 +223,11 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
+- **Vision transformer adapter for dense predictions.** ICLR 2023.
 
+  *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
+
+  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
 
 ### Partial-Based Fine-Tuning
 ### Specification Tuning
@@ -325,5 +331,11 @@ The repository is actively maintained. Pull requests or direct messages are welc
   *Hang Guo, Tao Dai, Yuanchao Bai, Bin Chen, Shu-Tao Xia, Zexuan Zhu.*
 
   [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][Code](https://github.com/csguoh/AdaptIR)]
+
+- **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
+
+  *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
+  
+  [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
 
 
