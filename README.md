@@ -307,8 +307,38 @@ The repository is actively maintained. Pull requests or direct messages are welc
   [[Paper](https://arxiv.org/abs/2312.08636)][Code]
 
 ### Prefix Tuning
+- **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
+  
+  *Li, Xiang Lisa and Liang, Percy.*
+
+  [[Paper](https://arxiv.org/abs/2101.00190)][[Code](https://github.com/XiangLi1999/PrefixTuning)]
+
+- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
+  
+  *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
+
+  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+
+- **Exploring Efficient Few-shot Adaptation for Vision Transformers,** TMLR 2023.
+  
+  *Xu, Chengming and Yang, Siqian and Wang, Yabiao and Wang, Zhanxiong and Fu, Yanwei and Xue, Xiangyang.*
+
+  [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)]
+
+- **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning,** CVPR 2023.
+  
+  *Tu, Cheng-Hao and Mai, Zheda and Chao, Wei-Lun.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)][[Code](https://github.com/andytu28/VQT)]
+
 
 ### Side Tuning
+- **Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks,** ECCV 2020.
+  
+  *Zhang, Jeffrey O and Sax, Alexander and Zamir, Amir and Guibas, Leonidas and Malik, Jitendra.*
+
+  [[Paper](https://arxiv.org/pdf/1912.13503.pdf)][Code]
+
 - **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
@@ -321,14 +351,69 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
 
+- **Side Adapter Network for Open-Vocabulary Semantic Segmentation,** CVPR 2023.
+  
+  *Xu, Mengde and Zhang, Zheng and Wei, Fangyun and Hu, Han and Bai, Xiang.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Side_Adapter_Network_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2023_paper.html)][[Code](https://mendelxu.github.io/SAN/)]
+
+- **DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
+  
+  *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
+
+  [[Paper](https://arxiv.org/abs/2312.07856)][Code]()
+
+- **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
+  
+  *Yin, Dongshuo and Han, Xueting and Li, Bin and Feng, Hao and Bai, Jing.*
+
+  [[Paper](https://arxiv.org/abs/2306.09729)][Code]
+
+- **Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
+  
+  *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and Tateyama, Tomoko and Chen, Yen-wei.*
+
+  [[Paper](https://arxiv.org/abs/2306.12737)][[Code](https://github.com/11yxk/SAM-LST)]
+
+
+
 ### Partial-Based Fine-Tuning
 ### Specification Tuning
+- **Do Better ImageNet Models Transfer Better?,** CVPR 2019.
+  
+  *Kornblith, Simon and Shlens, Jonathon and Le, Quoc V.*
+
+  [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html)][[Code](https://github.com/lsh3163/Imagenet-Better)]
+
 - **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
 
   *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
 
   [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
+  
+- **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,** NAACL 2022.
+  
+  *Fu, Chin-Lun and Chen, Zih-Ching and Lee, Yun-Ru and Lee, Hung-yi.*
 
+  [[Paper](https://arxiv.org/abs/2205.00305)][[Code](https://github.com/Allen0307/AdapterBias)]
+
+- **Differentially Private Bias-Term only Fine-tuning of Foundation Models,** Arxiv 2022.
+  
+  *Bu, Zhiqi and Wang, Yu-Xiang and Zha, Sheng and Karypis, George.*
+
+  [[Paper](https://arxiv.org/abs/2210.00036)][Code]
+
+- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+  
+  *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
+
+  [[Paper](https://arxiv.org/abs/2304.01917)][Code]
+
+- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
+  
+  *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
+
+  [[Paper](https://arxiv.org/abs/2304.06648)][Code](https://github.com/mkshing/DiffFit-pytorch)
 
 ### Reparameter Tuning
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
@@ -343,29 +428,53 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
 
-- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
+- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
   
-  *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
+  *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
 
-  [[Paper](https://arxiv.org/abs/2304.06648)][[Code]()]
+  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
+
+- **FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023.
+  
+  *Jie, Shibo and Deng, Zhi-Hong.*
+
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25187)][Code]
+
+- **Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer,** Arxiv 2023.
+  
+  *Chen, Dongping.*
+
+  [[Paper](https://arxiv.org/abs/2311.06749)][Code]
+
+- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+  
+  *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
+
+  [[Paper](https://arxiv.org/abs/2304.01917)][Code]
+
+- **Parameter-efficient Model Adaptation for Vision Transformers,** AAAI 2023.
+  
+  *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
+
+  [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
+
+- **DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment,** ECCV 2022.
+  
+  *Jiang, Ziyu and Chen, Tianlong and Chen, Xuxi and Cheng, Yu and Zhou, Luowei and Yuan, Lu and Awadallah, Ahmed and Wang, Zhangyang.*
+
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_14)][[Code](https://github.com/VITA-Group/DnA)]
+
+- **Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
+  
+  *Luo, Gen and Huang, Minglang and Zhou, Yiyi and Sun, Xiaoshuai and Jiang, Guannan and Wang, Zhiyu and Ji, Rongrong.*
+
+  [[Paper](https://arxiv.org/abs/2302.08106)][[Code](https://github.com/luogen1996/RepAdapter)]
 
 - **SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
   
   *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
 
   [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
-
-- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
-  
-  *Samyadeep Basu, Daniela Massiceti, Shell Xu Hu, Soheil Feizi.*
-
-  [[Paper]([https://arxiv.org/abs/2308.14604](https://arxiv.org/abs/2304.01917))][[Code]()]
-
-- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
-  
-  *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
-
-  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
 
 ### Unified Fine-Tuning
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
@@ -379,6 +488,24 @@ The repository is actively maintained. Pull requests or direct messages are welc
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
   [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+
+- **Neural Prompt Search,** Arxiv 2022.
+  
+  *Zhang, Yuanhan and Zhou, Kaiyang and Liu, Ziwei.*
+
+  [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/Davidzhangyuanhan/NOAH)]
+
+- **Rethinking Efficient Tuning Methods from a Unified Perspective,** Arxiv 2023.
+  
+  *Jiang, Zeyinzi and Mao, Chaojie and Huang, Ziyuan and Lv, Yiliang and Zhao, Deli and Zhou, Jingren.*
+
+  [[Paper](https://arxiv.org/pdf/2303.00690.pdf)][Code]
+
+- **A Unified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
+  
+  *Gao, Qiankun and Zhao, Chen and Sun, Yifan and Xi, Teng and Zhang, Gang and Ghanem, Bernard and Zhang, Jian.*
+
+  [[Paper](https://arxiv.org/abs/2303.10070)][[Code](https://github.com/gqk/LAE)]
 
 
 ### Others
@@ -430,4 +557,13 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
 
-
+## Citation
+If you find our survey and repository useful for your research, please consider citing our paper:
+```bibtex
+@article{,
+  title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
+  author={Yi Xin, Siqi Luo, Haodi Zhou, Junlong Du, Xiaohong Liu, Yue Fan, Qing Li, Yuntao Du},
+  journal={Arxiv},
+  year={2024}
+}
+```
