@@ -3,26 +3,30 @@ This is a curated list of research resources in `Parameter-Efficient Fine-tuning
 
 The repository is actively maintained. Pull requests or direct messages are welcome.
 
-## Content
+## Table of Contents
 - [Background & Problem]()
 
 - [Keywords Convention](#keywords-convention)
+
+- [Papers]()
   
-- [Addition-Based Fine-Tuning]()
-  - [Adapter Tuning]()
-
-  - [Prompt Tuning]()
-
-  - [Prefix Tuning]()
-
-  - [Side Tuning]()
-
-- [Partial-Based Fine-Tuning]()
-  - [Specification Tuning]()
+  - [Addition-Based Fine-Tuning]()
+    - [Adapter Tuning]()
   
-  - [Repatameter Tuning]()
+    - [Prompt Tuning]()
+  
+    - [Prefix Tuning]()
+  
+    - [Side Tuning]()
+  
+  - [Partial-Based Fine-Tuning]()
+    - [Specification Tuning]()
+    
+    - [Repatameter Tuning]()
+  
+  - [Unified Fine-Tuning]()
 
-- [Unified Fine-Tuning]()
+- [Applications]()
 
 ## Overeview
 ![avatar](.png)
