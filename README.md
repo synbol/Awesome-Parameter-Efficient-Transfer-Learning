@@ -45,84 +45,6 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ## Papers
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
-
-### Prompt Tuning
-
-### Prefix Tuning
-
-### Side Tuning
-
-
-### Partial-Based Fine-Tuning
-### Specification Tuning
-
-### Reparameter Tuning
-
-### Unified Fine-Tuning
-
-
-- **Learning to Prompt for Vision-Language Models,** IJCV 2022.
-  
-  *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
-
-  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)]
-
-- **Visual Prompt Tuning,** ECCV 2022.
-  
-  *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
-
-  [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
-
-- **Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
-  
-  *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and Zhao, Zhe and Li, YaGuang and Chen, Zhao and Metzler, Donald and others.*
-
-  [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
-
-- **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
-  
-  *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
-
-  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
-
-- **Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
-  
-  *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and Zhang, Baofeng and Xiong, Zhiwei and Gui, Chenguang.*
-
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
-
-
-- **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
-  
-  *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
-
-  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
-
-- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
-  
-  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
-
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
-
-
-- **Tokenize Anything via Prompting,** Arxiv 2023.
-  
-  *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
-
-  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
-
-- **MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
-  
-  *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
-
-  [[Paper](https://arxiv.org/abs/2312.08636)][[Code]()]
-
-
-
-
-  
-
-### Adapter Tuning
 - **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
   
   *Mahabadi, Rabeeh Karimi and Ruder, Sebastian and Dehghani, Mostafa and Henderson, James.*
@@ -238,11 +160,82 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://ieeexplore.ieee.org/document/10203390/authors#authors)][Code]
 
-
+### Prompt Tuning
+- **Visual Prompt Tuning,** ECCV 2022.
   
+  *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
+  [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
+
+- **Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
-### Parameter Tuning
+  *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
+
+  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)]
+
+- **Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
+  
+  *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and Zhao, Zhe and Li, YaGuang and Chen, Zhao and Metzler, Donald and others.*
+
+  [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
+
+- **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
+  
+  *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
+
+  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
+
+- **Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
+  
+  *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and Zhang, Baofeng and Xiong, Zhiwei and Gui, Chenguang.*
+
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
+
+- **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
+  
+  *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
+
+  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
+
+- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
+  
+  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
+
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
+
+- **Tokenize Anything via Prompting,** Arxiv 2023.
+  
+  *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
+
+  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
+
+- **MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
+  
+  *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
+
+  [[Paper](https://arxiv.org/abs/2312.08636)][[Code]()]
+
+### Prefix Tuning
+
+### Side Tuning
+- **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
+
+  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
+
+  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
+
+
+
+### Partial-Based Fine-Tuning
+### Specification Tuning
+- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
+
+  *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
+
+  [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
+
+
+### Reparameter Tuning
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu.*
@@ -255,12 +248,45 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
 
-- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
+- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
+  
+  *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
 
-  *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
+  [[Paper](https://arxiv.org/abs/2304.06648)][[Code]()]
 
-  [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
+- **SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
+  
+  *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
 
+  [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
+
+- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+  
+  *Samyadeep Basu, Daniela Massiceti, Shell Xu Hu, Soheil Feizi.*
+
+  [[Paper]([https://arxiv.org/abs/2308.14604](https://arxiv.org/abs/2304.01917))][[Code]()]
+
+- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
+  
+  *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
+
+  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
+
+### Unified Fine-Tuning
+- **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
+
+  *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
+
+  [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
+
+- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
+
+  *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
+
+  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+
+
+### Others
 - **Parameter-efficient Model Adaptation for Vision Transformers.** AAAI 2023.
 
   *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
@@ -284,57 +310,6 @@ The repository is actively maintained. Pull requests or direct messages are welc
   *Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang.*
 
   [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
-
-- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
-  
-  *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
-
-  [[Paper](https://arxiv.org/abs/2304.06648)][[Code]()]
-
-
-
-
-
-
-### Re-Parameter Tuning
-
-- **SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
-  
-  *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
-
-  [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
-
-- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
-  
-  *Samyadeep Basu, Daniela Massiceti, Shell Xu Hu, Soheil Feizi.*
-
-  [[Paper]([https://arxiv.org/abs/2308.14604](https://arxiv.org/abs/2304.01917))][[Code]()]
-
-- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
-  
-  *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
-
-  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
-
-### Unified
-- **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
-
-  *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
-
-  [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
-
-- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
-
-  *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
-
-  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
-
-### Others
-- **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
-
-  *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
-
-  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
 - **GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction,** Arxiv 2023.
 
