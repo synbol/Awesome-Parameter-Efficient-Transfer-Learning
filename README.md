@@ -22,19 +22,21 @@
 
 ## Content
 
-- [Adapter Tuning]()
+- Addition-Based Fine-Tuning
+  - [Adapter Tuning]()
 
-- [Prompt Tuning]()
+  - [Prompt Tuning]()
 
-- [Prefix Tuning]()
+  - [Prefix Tuning]()
 
-- [Side Tuning]()
+  - [Side Tuning]()
 
-- [Specification Tuning]()
+- Partial-Based Fine-Tuning
+  - [Specification Tuning]()
+  
+  - [Repatameter Tuning]()
 
-- [Repatameter Tuning]()
-
-- [Unified Tuning]()
+- [Unified Fine-Tuning]()
 
 
 ## Problem
