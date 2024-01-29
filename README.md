@@ -1,5 +1,9 @@
 # Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-A curated list of awesome parameter-efficient fine-tuning resources focusing on computer vision. Your contributions are always welcome!
+% A curated list of awesome parameter-efficient fine-tuning resources focusing on computer vision. Your contributions are always welcome!
+
+This is a curated list of awesome parameter-efficient fine-tuning resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
+
+The repository is actively maintained. Pull requests or direct messages are welcome.
 
 ## Content
 - [Background & Problem]()
