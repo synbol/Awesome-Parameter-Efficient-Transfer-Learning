@@ -45,6 +45,13 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ## Papers
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
+- **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
+  
+  *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
+
+  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
+
+
 - **Parameter-efficient multi-task fine-tuning for transformers via shared hypernetworks,** ACL 2021.
   
   *Mahabadi, Rabeeh Karimi and Ruder, Sebastian and Dehghani, Mostafa and Henderson, James.*
@@ -57,11 +64,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2106.04647)][[Code](https://github.com/rabeehk/compacter)]
 
-- **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
-  
-  *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
-  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
 
 - **Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,** NeurIPS 2022.
   
@@ -117,12 +120,6 @@ The repository is actively maintained. Pull requests or direct messages are welc
   *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
 
   [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
-
-- **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
-
-  *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
-
-  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
 
 - **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
 
