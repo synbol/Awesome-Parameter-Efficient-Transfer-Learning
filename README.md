@@ -1,10 +1,11 @@
-# Awesome Parameter-Efficient Transfer Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-## Overeview
-![avatar](.png)
+# Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+A curated list of awesome parameter-efficient fine-tuning resources focusing on computer vision. Your contributions are always welcome!
 
 ## Content
+- [Background & Problem]()
 
+- [Keywords Convention](#keywords-convention)
+  
 - [Addition-Based Fine-Tuning]()
   - [Adapter Tuning]()
 
@@ -20,6 +21,11 @@
   - [Repatameter Tuning]()
 
 - [Unified Fine-Tuning]()
+
+## Overeview
+![avatar](.png)
+
+
 
 
 ## Problem
