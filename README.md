@@ -15,21 +15,21 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   - [Overeview]()
   
-  - [Addition-Based Fine-Tuning]()
-    - [Adapter Tuning]()
+  - [Addition-Based Fine-Tuning](#Addition-Based Fine-Tuning)
+    - [Adapter Tuning](#Adapter Tuning)
   
-    - [Prompt Tuning]()
+    - [Prompt Tuning](#Prompt Tuning)
   
-    - [Prefix Tuning]()
+    - [Prefix Tuning](#Prefix Tuning)
   
-    - [Side Tuning]()
+    - [Side Tuning](#Side Tuning)
   
-  - [Partial-Based Fine-Tuning]()
-    - [Specification Tuning]()
+  - [Partial-Based Fine-Tuning](#Partial-Based Fine-Tuning)
+    - [Specification Tuning](#Specification Tuning)
     
-    - [Repatameter Tuning]()
+    - [Repatameter Tuning](#Repatameter Tuning)
   
-  - [Unified Fine-Tuning]()
+  - [Unified Fine-Tuning](#Unified Fine-Tuning)
 
 - [Applications]()
 
@@ -43,7 +43,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 
 ## Papers
-## Addition-Based Fine-Tuning
+### Addition-Based Fine-Tuning
 ### Adapter Tuning
 
 ### Prompt Tuning
@@ -53,12 +53,12 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ### Side Tuning
 
 
-## Partial-Based Fine-Tuning
+### Partial-Based Fine-Tuning
 ### Specification Tuning
 
 ### Reparameter Tuning
 
-## Unified Tuning
+### Unified Fine-Tuning
 
 
 - **Learning to Prompt for Vision-Language Models,** IJCV 2022.
