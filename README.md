@@ -22,7 +22,7 @@
 
 ## Content
 
-- Addition-Based Fine-Tuning
+- [Addition-Based Fine-Tuning]()
   - [Adapter Tuning]()
 
   - [Prompt Tuning]()
@@ -31,7 +31,7 @@
 
   - [Side Tuning]()
 
-- Partial-Based Fine-Tuning
+- [Partial-Based Fine-Tuning]()
   - [Specification Tuning]()
   
   - [Repatameter Tuning]()
