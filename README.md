@@ -557,6 +557,14 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
 
+## Contributors
+
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jianghaojun/Awesome-Parameter-Efficient-Transfer-Learning" />
+</a>
+
 ## Citation
 If you find our survey and repository useful for your research, please consider citing our paper:
 ```bibtex
