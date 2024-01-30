@@ -302,6 +302,13 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   [[Paper](https://arxiv.org/abs/2312.08636)][Code]
 
+- **Diversity-Aware Meta Visual Prompting,** CVPR 2023.
+  
+  *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.*
+
+  [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)]
+
+
 ### Prefix Tuning
 - **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
   
