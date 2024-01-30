@@ -33,6 +33,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Applications](#applications)
 
+- [Contribution](#contribution)
+
 ## Introduction
 
 
@@ -567,7 +569,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
 
-### Applications
+## Applications
 
 ## Contributors
 
