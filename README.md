@@ -48,19 +48,19 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ![avatar](Overeview.png)
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
-1. **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
+- **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
   [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
 
-2. **Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
+- **Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
   
   *Jie, Shibo and Deng, Zhi-Hong.*
 
   [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
 
-3. **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
+- **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
   
   *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
 
