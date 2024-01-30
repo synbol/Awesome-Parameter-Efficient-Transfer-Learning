@@ -7,7 +7,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 **Visual PEFT Library/Benchmark is coming soon...**
 
 ## Table of Contents
-- [Background & Problem](#background-&-problem)
+- [Problem](#problem)
 
 - [Keywords Convention](#keywords-convention)
 
@@ -33,7 +33,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Applications]()
 
-## Background & Problem
+## Problem
 
 
 ## Papers
