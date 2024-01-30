@@ -11,7 +11,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Keywords Convention](#keywords-convention)
 
-- [Papers]()
+- [Papers](#papers)
 
   - [Overeview](#overeview)
   
@@ -31,7 +31,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   - [Unified Fine-Tuning](#unified-fine-tuning)
 
-- [Applications]()
+- [Applications](#applications)
 
 ## Problem
 
@@ -552,6 +552,8 @@ The repository is actively maintained. Pull requests or direct messages are welc
   *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
   
   [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
+
+### Applications
 
 ## Contributors
 
