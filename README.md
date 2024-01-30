@@ -67,7 +67,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,** ICLR 2023.
   
-  *Sharma, Mohit and Fantacci, Claudio and Zhou, Yuxiang and Koppula, Skanda and Heess, Nicolas and Scholz, Jon and Aytar, Yusuf.*
+  *Sharma, Mohit and Fantacci, Claudio and Zhou, Yuxiang and Koppula, Skanda and others.*
 
   [[Paper](https://arxiv.org/abs/2304.06600)][[Code](https://sites.google.com/view/robo-adapters/)]
 
@@ -157,7 +157,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** Arxiv 2023.
 
-  *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and Shan, Ying and Qie, Xiaohu.*
+  *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and others.*
   
   [[Paper](https://arxiv.org/abs/2302.08453)][[Code](https://github.com/TencentARC/T2I-Adapter)]
 
@@ -176,7 +176,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
   
-  *Gao, Yunhe and Shi, Xingjian and Zhu, Yi and Wang, Hao and Tang, Zhiqiang and Zhou, Xiong and Li, Mu and Metaxas, Dimitris N.*
+  *Gao, Yunhe and Shi, Xingjian and Zhu, Yi and Wang, Hao and Tang, Zhiqiang and Zhou, Xiong and others.*
 
   [[Paper](https://arxiv.org/abs/2203.12119)][Code]
 
@@ -218,7 +218,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   [[Paper](https://openreview.net/forum?id=qgmrC8jhCo)][Code]
 
 
-- **ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,**  2023.
+- **ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,** Arxiv 2023.
   
   *Hu, Shishuai and Liao, Zehui and Xia, Yong.*
 
@@ -262,7 +262,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
   
-  *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and Zhao, Zhe and Li, YaGuang and Chen, Zhao and Metzler, Donald and others.*
+  *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and others.*
 
   [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
 
@@ -274,7 +274,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
   
-  *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and Zhang, Baofeng and Xiong, Zhiwei and Gui, Chenguang.*
+  *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and others.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
 
@@ -367,7 +367,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
   
-  *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and Tateyama, Tomoko and Chen, Yen-wei.*
+  *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and others.*
 
   [[Paper](https://arxiv.org/abs/2306.12737)][[Code](https://github.com/11yxk/SAM-LST)]
 
@@ -414,7 +414,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ### Reparameter Tuning
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
-  *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and Wang, Shean and Wang, Lu and Chen, Weizhu.*
+  *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
   [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)]
 
@@ -456,7 +456,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment,** ECCV 2022.
   
-  *Jiang, Ziyu and Chen, Tianlong and Chen, Xuxi and Cheng, Yu and Zhou, Luowei and Yuan, Lu and Awadallah, Ahmed and Wang, Zhangyang.*
+  *Jiang, Ziyu and Chen, Tianlong and Chen, Xuxi and Cheng, Yu and Zhou, Luowei and Yuan, Lu and others.*
 
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_14)][[Code](https://github.com/VITA-Group/DnA)]
 
