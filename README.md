@@ -7,7 +7,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 **Visual PEFT Library/Benchmark is coming soon...**
 
 ## Table of Contents
-- [Problem](#problem)
+- [Introduction](#introduction)
 
 - [Keywords](#keywords)
 
@@ -33,10 +33,15 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Applications](#applications)
 
-## Problem
+## Introduction
 
 
 ## Keywords
+![](https://img.shields.io/badge/Abbreviation-blue) The abbreviation of the work.
+
+![](https://img.shields.io/badge/Application-green) The main explored task/application of the work.
+
+![](https://img.shields.io/badge/Other-orange) Other important information of the work.
 
 ## Papers
 ### Overeview
