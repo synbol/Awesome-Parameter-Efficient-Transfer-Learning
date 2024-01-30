@@ -9,7 +9,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ## Table of Contents
 - [Problem](#problem)
 
-- [Keywords Convention](#keywords-convention)
+- [Keywords](#keywords)
 
 - [Papers](#papers)
 
@@ -36,7 +36,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ## Problem
 
 
-## Keywords Convention
+## Keywords
 
 ## Papers
 ### Overeview
