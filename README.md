@@ -188,7 +188,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Pro-tuning: Unified Prompt Tuning for Vision Tasks,** TCSVT 2023.
   
-  *Nie, Xing and Ni, Bolin and Chang, Jianlong and Meng, Gaofeng and Huo, Chunlei and Xiang, Shiming and Tian, Qi.*
+  *Nie, Xing and Ni, Bolin and Chang, Jianlong and Meng, Gaofeng and Huo, Chunlei and others.*
 
   [[Paper](https://arxiv.org/abs/2207.14381)][Code]
 
@@ -268,7 +268,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
   
-  *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and Khan, Salman and Khan, Fahad Shahbaz.*
+  *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
   [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
 
@@ -286,7 +286,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
   
-  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and Wang, Peng and Zhang, Yanning.*
+  *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and others.*
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
 
@@ -357,7 +357,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  [[Paper](https://arxiv.org/abs/2312.07856)][Code]()
+  [[Paper](https://arxiv.org/abs/2312.07856)][Code]
 
 - **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
   
@@ -409,7 +409,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
   *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
 
-  [[Paper](https://arxiv.org/abs/2304.06648)][Code](https://github.com/mkshing/DiffFit-pytorch)
+  [[Paper](https://arxiv.org/abs/2304.06648)][[Code](https://github.com/mkshing/DiffFit-pytorch)]
 
 ### Reparameter Tuning
 - **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
@@ -533,19 +533,19 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   *Jiacheng Ruan, Jingsheng Gao, Mingye Xie, Suncheng Xiang, Zefang Yu, Ting Liu, Yuzhuo Fu.*
 
-  [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code]()
+  [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code]
 
 - **Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models,** AAAI 2024.
 
   *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
 
-  [[Paper](https://arxiv.org/abs/2310.03059)][Code]()
+  [[Paper](https://arxiv.org/abs/2310.03059)][Code]
 
 - **AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models,** Arxiv 2023.
 
   *Hang Guo, Tao Dai, Yuanchao Bai, Bin Chen, Shu-Tao Xia, Zexuan Zhu.*
 
-  [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][Code](https://github.com/csguoh/AdaptIR)]
+  [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][[Code](https://github.com/csguoh/AdaptIR)]
 
 - **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
 
