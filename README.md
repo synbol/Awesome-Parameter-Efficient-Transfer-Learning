@@ -48,31 +48,31 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ![avatar](Overeview.png)
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
-- 1. **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
+- 1.**AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
   [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
 
-- 2. **Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
+- 2.**Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
   
   *Jie, Shibo and Deng, Zhi-Hong.*
 
   [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
 
-- 3. **ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
+- 3.**ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
   
   *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
 
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/st-adapter)]
 
-- 4. **AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
+- **AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
   
   *Yang, Taojiannan and Zhu, Yi and Xie, Yusheng and Zhang, Aston and Chen, Chen and Li, Mu.*
 
   [[Paper](https://arxiv.org/abs/2302.03024)][[Code](https://adapt-image-models.github.io/)]
 
-- 5. **Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,** ICLR 2023.
+- **Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,** ICLR 2023.
   
   *Sharma, Mohit and Fantacci, Claudio and Zhou, Yuxiang and Koppula, Skanda and others.*
 
