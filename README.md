@@ -50,7 +50,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 ![avatar](Overeview.png)
 ### Addition-Based Fine-Tuning
 ### Adapter Tuning
-- **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
+- [1] **AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
