@@ -54,7 +54,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
-  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)]
+  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)] ![](https://img.shields.io/badge/AdaptFormer-blue) ![](https://img.shields.io/badge/Image Recognition-green) ![](https://img.shields.io/badge/Video Recognition-green)
 
 - **[2] Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
   
