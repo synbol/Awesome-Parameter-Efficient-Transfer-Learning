@@ -15,7 +15,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
   - [Overeview](#overeview)
   
-  - [Addition-Based Fine-Tuning](#addition-based-fine-tuning)
+  - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
   
     - [Prompt Tuning](#prompt-tuning)
@@ -24,12 +24,12 @@ The repository is actively maintained. Pull requests or direct messages are welc
   
     - [Side Tuning](#side-tuning)
   
-  - [Partial-Based Fine-Tuning](#partial-based-fine-tuning)
+  - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
     
     - [Repatameter Tuning](#repatameter-tuning)
   
-  - [Unified Fine-Tuning](#unified-fine-tuning)
+  - [Unified Tuning](#unified-tuning)
 
 - [Applications](#applications)
 
@@ -48,7 +48,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ## Papers
 ### Overeview
 ![avatar](Overeview.png)
-### Addition-Based Fine-Tuning
+### Addition-based Tuning
 ### Adapter Tuning
 - **[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
   
@@ -389,7 +389,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
 
 
-### Partial-Based Fine-Tuning
+### Partial-based Tuning
 ### Specification Tuning
 - **Do Better ImageNet Models Transfer Better?,** CVPR 2019.
   
@@ -488,7 +488,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
 
-### Unified Fine-Tuning
+### Unified Tuning
 - **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
