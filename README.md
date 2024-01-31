@@ -13,7 +13,7 @@ The repository is actively maintained. Pull requests or direct messages are welc
 
 - [Papers](#papers)
 
-  - [Overeview](#overeview)
+  - [Overview](#overview)
   
   - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
@@ -46,7 +46,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ![](https://img.shields.io/badge/Other-orange) Other important information of the work.
 
 ## Papers
-### Overeview
+### Overview
 ![avatar](Overeview.png)
 ### Addition-based Tuning
 ### Adapter Tuning
