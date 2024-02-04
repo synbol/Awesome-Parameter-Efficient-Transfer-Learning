@@ -352,13 +352,13 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Zhang, Jeffrey O and Sax, Alexander and Zamir, Amir and Guibas, Leonidas and Malik, Jitendra.*
 
-  [[Paper](https://arxiv.org/pdf/1912.13503.pdf)][Code]
+  [[Paper](https://arxiv.org/pdf/1912.13503.pdf)][Code] ![](https://img.shields.io/badge/Side_Tuning-blue) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 - **[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
+  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[3] Vision transformer adapter for dense predictions.** ICLR 2023.
 
