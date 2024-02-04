@@ -66,7 +66,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
 
-  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/ST_Adapter)] ![](https://img.shields.io/badge/ST-Adapter-blue) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/ST-Adapter)] ![](https://img.shields.io/badge/ST_Adapter-blue) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **[4] AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
   
@@ -126,7 +126,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Rao, Jun and Meng, Xv and Ding, Liang and Qi, Shuhan and Tao, Dacheng.*
 
-  [[Paper](https://arxiv.org/abs/2205.15308)][Code] ![](https://img.shields.io/badge/PESF-KD-blue)
+  [[Paper](https://arxiv.org/abs/2205.15308)][Code] ![](https://img.shields.io/badge/PESF_KD-blue)
 
 - **[14] VL-adapter: Parameter-efficient transfer learning for vision-and-language tasks,** CVPR 2022.
   
