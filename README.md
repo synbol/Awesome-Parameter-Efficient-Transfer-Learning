@@ -582,6 +582,8 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   <img src="" />
 </a>
 
+### :clap: Thanks to the above contributors for this excellent work！
+
 ## Citation
 If you find our survey and repository useful for your research, please consider citing our paper:
 ```bibtex
