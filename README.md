@@ -178,141 +178,141 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   [[Paper](https://arxiv.org/abs/2312.16693)][[Code](https://github.com/I2V-Adapter/I2V-Adapter-repo)] ![](https://img.shields.io/badge/I2V_Adapter-blue) ![](https://img.shields.io/badge/Image2Video-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 ### Prompt Tuning
-- **Visual Prompt Tuning,** ECCV 2022.
+- **[1] Visual Prompt Tuning,** ECCV 2022.
   
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
   [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
 
-- **Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
+- **[2] Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
   
   *Gao, Yunhe and Shi, Xingjian and Zhu, Yi and Wang, Hao and Tang, Zhiqiang and Zhou, Xiong and others.*
 
   [[Paper](https://arxiv.org/abs/2203.12119)][Code]
 
-- **LPT: Long-tailed Prompt Tuning for Image Classification,** ICLR 2023.
+- **[3] LPT: Long-tailed Prompt Tuning for Image Classification,** ICLR 2023.
   
   *Dong, Bowen and Zhou, Pan and Yan, Shuicheng and Zuo, Wangmeng.*
 
   [[Paper](https://arxiv.org/abs/2210.01033)][[Code](https://github.com/DongSky/LPT)]
 
-- **Pro-tuning: Unified Prompt Tuning for Vision Tasks,** TCSVT 2023.
+- **[4] Pro-tuning: Unified Prompt Tuning for Vision Tasks,** TCSVT 2023.
   
   *Nie, Xing and Ni, Bolin and Chang, Jianlong and Meng, Gaofeng and Huo, Chunlei and others.*
 
   [[Paper](https://arxiv.org/abs/2207.14381)][Code]
 
-- **Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
+- **[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
   
   *Zha, Yaohua and Wang, Jinpeng and Dai, Tao and Chen, Bin and Wang, Zhi and Xia, Shu-Tao.*
 
   [[Paper](https://arxiv.org/pdf/2304.07221.pdf)][[Code](https://github.com/zyh16143998882/ICCV23-IDPT)]
 
-- **Visual Prompt Multi-Modal Tracking,** CVPR 2023.
+- **[6] Visual Prompt Multi-Modal Tracking,** CVPR 2023.
   
   *Zhu, Jiawen and Lai, Simiao and Chen, Xin and Wang, Dong and Lu, Huchuan.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)][[Code](https://github.com/jiawen-zhu/ViPT)]
 
-- **LION: Implicit Vision Prompt Tuning,** AAAI 2024.
+- **[7] LION: Implicit Vision Prompt Tuning,** AAAI 2024.
   
   *Wang, Haixin and Chang, Jianlong and Luo, Xiao and Sun, Jinan and Lin, Zhouchen and Tian, Qi.*
 
   [[Paper](https://arxiv.org/abs/2303.09992)][Code]
 
 
-- **Convolutional Visual Prompt for Robust Visual Perception,** NeurIPS 2023.
+- **[8] Convolutional Visual Prompt for Robust Visual Perception,** NeurIPS 2023.
   
   *Tsai, Yun-Yun and Mao, Chengzhi and Yang, Junfeng.*
 
   [[Paper](https://openreview.net/forum?id=qgmrC8jhCo)][Code]
 
 
-- **ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,** Arxiv 2023.
+- **[9] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,** Arxiv 2023.
   
   *Hu, Shishuai and Liao, Zehui and Xia, Yong.*
 
   [[Paper](https://arxiv.org/abs/2211.11514)][[Code](https://github.com/ShishuaiHu/ProSFDA)]
 
-- **Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023.
+- **[10] Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023.
   
   *Liu, Weihuang and Shen, Xi and Pun, Chi-Man and Cun, Xiaodong.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)][[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
 
-- **P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** NeurIPS 2022.
+- **[11] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** NeurIPS 2022.
   
   *Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie and Lu, Jiwen.*
 
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)][[Code](https://github.com/wangzy22/P2P)]
 
-- **Exploring Visual Prompts for Adapting Large-Scale Models,** Arxiv 2022.
+- **[12] Exploring Visual Prompts for Adapting Large-Scale Models,** Arxiv 2022.
   
   *Bahng, Hyojin and Jahanian, Ali and Sankaranarayanan, Swami and Isola, Phillip.*
 
   [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://hjbahng.github.io/visual_prompting/)]
 
-- **Unleashing the Power of Visual Prompting At the Pixel Level,** Arxiv 2023.
+- **[13] Unleashing the Power of Visual Prompting At the Pixel Level,** Arxiv 2023.
   
   *Wu, Junyang and Li, Xianhang and Wei, Chen and Wang, Huiyu and Yuille, Alan and Zhou, Yuyin and Xie, Cihang.*
 
   [[Paper](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/UCSC-VLAA/EVP)]
 
-- **Understanding and Improving Visual Prompting: A Label-Mapping Perspective,** CVPR 2023.
+- **[14] Understanding and Improving Visual Prompting: A Label-Mapping Perspective,** CVPR 2023.
   
   *Chen, Aochuan and Yao, Yuguang and Chen, Pin-Yu and Zhang, Yihua and Liu, Sijia.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)]
 
-- **Learning to Prompt for Vision-Language Models,** IJCV 2022.
+- **[15] Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
   [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)]
 
-- **Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
+- **[16] Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
   
   *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and others.*
 
   [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
 
-- **MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
+- **[17] MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
   
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
   [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
 
-- **Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
+- **[18] Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
   
   *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and others.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
 
-- **Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
+- **[19] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
   
   *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
 
   [[Paper](https://arxiv.org/abs/2303.01788)][Code]
 
-- **Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
+- **[20] Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
   
   *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and others.*
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
 
-- **Tokenize Anything via Prompting,** Arxiv 2023.
+- **[21] Tokenize Anything via Prompting,** Arxiv 2023.
   
   *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
 
   [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
 
-- **MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
+- **[22] MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
   
   *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
 
   [[Paper](https://arxiv.org/abs/2312.08636)][Code]
 
-- **Diversity-Aware Meta Visual Prompting,** CVPR 2023.
+- **[23] Diversity-Aware Meta Visual Prompting,** CVPR 2023.
   
   *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.*
 
@@ -320,25 +320,25 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
 
 ### Prefix Tuning
-- **Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
+- **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
   
   *Li, Xiang Lisa and Liang, Percy.*
 
   [[Paper](https://arxiv.org/abs/2101.00190)][[Code](https://github.com/XiangLi1999/PrefixTuning)]
 
-- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
+- **[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
   
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
   [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
 
-- **Exploring Efficient Few-shot Adaptation for Vision Transformers,** TMLR 2023.
+- **[3] Exploring Efficient Few-shot Adaptation for Vision Transformers,** TMLR 2023.
   
   *Xu, Chengming and Yang, Siqian and Wang, Yabiao and Wang, Zhanxiong and Fu, Yanwei and Xue, Xiangyang.*
 
   [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)]
 
-- **Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning,** CVPR 2023.
+- **[4] Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning,** CVPR 2023.
   
   *Tu, Cheng-Hao and Mai, Zheda and Chao, Wei-Lun.*
 
@@ -346,43 +346,43 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
 
 ### Side Tuning
-- **Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks,** ECCV 2020.
+- **[1] Side-Tuning: A Baseline for Network Adaptation via Additive Side Networks,** ECCV 2020.
   
   *Zhang, Jeffrey O and Sax, Alexander and Zamir, Amir and Guibas, Leonidas and Malik, Jitendra.*
 
   [[Paper](https://arxiv.org/pdf/1912.13503.pdf)][Code]
 
-- **LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
+- **[2] LST: Ladder Side-Tuning for Parameter and Memory Efficient Transfer Learning,** NeurIPS 2022.
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
   [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)]
 
-- **Vision transformer adapter for dense predictions.** ICLR 2023.
+- **[3] Vision transformer adapter for dense predictions.** ICLR 2023.
 
   *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
 
   [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
 
-- **Side Adapter Network for Open-Vocabulary Semantic Segmentation,** CVPR 2023.
+- **[4] Side Adapter Network for Open-Vocabulary Semantic Segmentation,** CVPR 2023.
   
   *Xu, Mengde and Zhang, Zheng and Wei, Fangyun and Hu, Han and Bai, Xiang.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Side_Adapter_Network_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2023_paper.html)][[Code](https://mendelxu.github.io/SAN/)]
 
-- **DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
+- **[5] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
   
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
   [[Paper](https://arxiv.org/abs/2312.07856)][Code]
 
-- **Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
+- **[6] Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
   
   *Yin, Dongshuo and Han, Xueting and Li, Bin and Feng, Hao and Bai, Jing.*
 
   [[Paper](https://arxiv.org/abs/2306.09729)][Code]
 
-- **Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
+- **[7] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
   
   *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and others.*
 
@@ -392,129 +392,129 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
 ### Partial-based Tuning
 ### Specification Tuning
-- **Do Better ImageNet Models Transfer Better?,** CVPR 2019.
+- **[1] Do Better ImageNet Models Transfer Better?,** CVPR 2019.
   
   *Kornblith, Simon and Shlens, Jonathon and Le, Quoc V.*
 
   [[Paper](https://openaccess.thecvf.com/content_CVPR_2019/html/Kornblith_Do_Better_ImageNet_Models_Transfer_Better_CVPR_2019_paper.html)][[Code](https://github.com/lsh3163/Imagenet-Better)]
 
-- **BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
+- **[2] BitFit: Simple Parameter-efficient Fine-tuning for Transformer-based Masked Language-models.** ACL 2022.
 
   *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
 
   [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
   
-- **AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,** NAACL 2022.
+- **[3] AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,** NAACL 2022.
   
   *Fu, Chin-Lun and Chen, Zih-Ching and Lee, Yun-Ru and Lee, Hung-yi.*
 
   [[Paper](https://arxiv.org/abs/2205.00305)][[Code](https://github.com/Allen0307/AdapterBias)]
 
-- **Differentially Private Bias-Term only Fine-tuning of Foundation Models,** Arxiv 2022.
+- **[4] Differentially Private Bias-Term only Fine-tuning of Foundation Models,** Arxiv 2022.
   
   *Bu, Zhiqi and Wang, Yu-Xiang and Zha, Sheng and Karypis, George.*
 
   [[Paper](https://arxiv.org/abs/2210.00036)][Code]
 
-- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+- **[5] Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
   
   *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
 
   [[Paper](https://arxiv.org/abs/2304.01917)][Code]
 
-- **DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
+- **[6] DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
   
   *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
 
   [[Paper](https://arxiv.org/abs/2304.06648)][[Code](https://github.com/mkshing/DiffFit-pytorch)]
 
 ### Reparameter Tuning
-- **LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
+- **[1] LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
   [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)]
 
-- **Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
+- **[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
   
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.*
 
   [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
 
-- **KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
+- **[3] KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
   
   *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
 
   [[Paper](https://arxiv.org/abs/2212.10650))][Code]
 
-- **FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023.
+- **[4] FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023.
   
   *Jie, Shibo and Deng, Zhi-Hong.*
 
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25187)][Code]
 
-- **Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer,** Arxiv 2023.
+- **[5] Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer,** Arxiv 2023.
   
   *Chen, Dongping.*
 
   [[Paper](https://arxiv.org/abs/2311.06749)][Code]
 
-- **Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
+- **[6] Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
   
   *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
 
   [[Paper](https://arxiv.org/abs/2304.01917)][Code]
 
-- **Parameter-efficient Model Adaptation for Vision Transformers,** AAAI 2023.
+- **[7] Parameter-efficient Model Adaptation for Vision Transformers,** AAAI 2023.
   
   *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
 
   [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
 
-- **DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment,** ECCV 2022.
+- **[8] DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment,** ECCV 2022.
   
   *Jiang, Ziyu and Chen, Tianlong and Chen, Xuxi and Cheng, Yu and Zhou, Luowei and Yuan, Lu and others.*
 
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_14)][[Code](https://github.com/VITA-Group/DnA)]
 
-- **Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
+- **[9] Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
   
   *Luo, Gen and Huang, Minglang and Zhou, Yiyi and Sun, Xiaoshuai and Jiang, Guannan and Wang, Zhiyu and Ji, Rongrong.*
 
   [[Paper](https://arxiv.org/abs/2302.08106)][[Code](https://github.com/luogen1996/RepAdapter)]
 
-- **SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
+- **[10]SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
   
   *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
 
   [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
 
 ### Unified Tuning
-- **Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
+- **[1] Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
 
   [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
 
-- **Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
+- **[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
 
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
   [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
 
-- **Neural Prompt Search,** Arxiv 2022.
+- **[3] Neural Prompt Search,** Arxiv 2022.
   
   *Zhang, Yuanhan and Zhou, Kaiyang and Liu, Ziwei.*
 
   [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/Davidzhangyuanhan/NOAH)]
 
-- **Rethinking Efficient Tuning Methods from a Unified Perspective,** Arxiv 2023.
+- **[4] Rethinking Efficient Tuning Methods from a Unified Perspective,** Arxiv 2023.
   
   *Jiang, Zeyinzi and Mao, Chaojie and Huang, Ziyuan and Lv, Yiliang and Zhao, Deli and Zhou, Jingren.*
 
   [[Paper](https://arxiv.org/pdf/2303.00690.pdf)][Code]
 
-- **A Unified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
+- **[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
   
   *Gao, Qiankun and Zhao, Chen and Sun, Yifan and Xi, Teng and Zhang, Gang and Ghanem, Bernard and Zhang, Jian.*
 
