@@ -54,55 +54,55 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Shoufa Chen, Chongjian Ge, Zhan Tong, Jiangliu Wang, Yibing Song, Jue Wang, Ping Luo.*
 
-  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)] ![](https://img.shields.io/badge/AdaptFormer-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
+  [[Paper](https://arxiv.org/abs/2205.13535)][[Code](https://github.com/ShoufaChen/AdaptFormer)] ![](https://img.shields.io/badge/AdaptFormer-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Domain_Generalization-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **[2] Convolutional Bypasses are Better Vision Transformer Adapters,** Arxiv 2022.
   
   *Jie, Shibo and Deng, Zhi-Hong.*
 
-  [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)]
+  [[Paper](https://arxiv.org/abs/2207.07039)][[Code](https://github.com/JieShibo/PETL-ViT)] ![](https://img.shields.io/badge/Convpass-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **[3] ST-Adapter: Parameter-Efficient Image-to-Video Transfer Learning,** NeurIPS 2022.
   
   *Pan, Junting and Lin, Ziyi and Zhu, Xiatian and Shao, Jing and Li, Hongsheng.*
 
-  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/st-adapter)]
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/a92e9165b22d4456fc6d87236e04c266-Abstract-Conference.html)][[Code](https://github.com/linziyi96/st-adapter)] ![](https://img.shields.io/badge/ST-Adapter-blue) ![](https://img.shields.io/badge/Video_Recognition-green)  ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **AIM: Adapting Image Models for Efficient Video Action Recognition,** ICLR 2023.
   
   *Yang, Taojiannan and Zhu, Yi and Xie, Yusheng and Zhang, Aston and Chen, Chen and Li, Mu.*
 
-  [[Paper](https://arxiv.org/abs/2302.03024)][[Code](https://adapt-image-models.github.io/)]
+  [[Paper](https://arxiv.org/abs/2302.03024)][[Code](https://adapt-image-models.github.io/)] ![](https://img.shields.io/badge/AIM-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,** ICLR 2023.
   
   *Sharma, Mohit and Fantacci, Claudio and Zhou, Yuxiang and Koppula, Skanda and others.*
 
-  [[Paper](https://arxiv.org/abs/2304.06600)][[Code](https://sites.google.com/view/robo-adapters/)]
+  [[Paper](https://arxiv.org/abs/2304.06600)][[Code](https://sites.google.com/view/robo-adapters/)] ![](https://img.shields.io/badge/Robo-adapters-blue) ![](https://img.shields.io/badge/Robotic_Manipulation-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **1% VS 100%: Parameter-Efficient Low Rank Adapter for Dense Predictions,** CVPR 2023.
   
   *Yin, Dongshuo and Yang, Yiran and Wang, Zhechao and Yu, Hongfeng and Wei, Kaiwen and Sun, Xian.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Yin_1_VS_100_Parameter-Efficient_Low_Rank_Adapter_for_Dense_Predictions_CVPR_2023_paper.html)][Code] ![](https://img.shields.io/badge/LoRand-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 - **Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,** NeurIPS 2022.
   
   *Yen-Cheng Liu, Chih-Yao Ma, Junjiao Tian, Zijian He, Zsolt Kira.*
 
-  [[Paper](https://arxiv.org/abs/2210.03265)][Code]
+  [[Paper](https://arxiv.org/abs/2210.03265)][Code] ![](https://img.shields.io/badge/Polyhistor-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 - **VMT-Adapter: Parameter-Efficient Transfer Learning for Multi-Task Dense Scene Understanding,** AAAI 2024.
 
   *Yi Xin, Junlong Du, Qiang Wang, Zhiwen Lin, Ke Yan.*
 
-  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()]
+  [[Paper](https://arxiv.org/abs/2312.08733)][[Code]()] ![](https://img.shields.io/badge/VMT-Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 - **SCT: A Simple Baseline for Parameter-Efficient Fine-Tuning via Salient Channels,** IJCV 2023.
 
   *Henry Hengyuan Zhao, Pichao Wang, Yuyang Zhao, Hao Luo, Fan Wang, Mike Zheng Shou.*
 
-  [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)]
+  [[Paper](https://arxiv.org/abs/2303.07910)][[Code](https://github.com/showlab/SCT)] ![](https://img.shields.io/badge/SCT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 - **Important Channel Tuning,** Openreview 2023.
 
