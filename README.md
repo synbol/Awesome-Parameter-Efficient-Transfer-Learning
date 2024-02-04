@@ -358,37 +358,37 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[3] Vision transformer adapter for dense predictions.** ICLR 2023.
 
   *Chen, Zhe and Duan, Yuchen and Wang, Wenhai and He, Junjun and Lu, Tong and Dai, Jifeng and Qiao, Yu.*
 
-  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)]
+  [[Paper](https://arxiv.org/abs/2205.08534)][[Code](https://github.com/czczup/ViT-Adapter)] ![](https://img.shields.io/badge/ViT_Adapter-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 - **[4] Side Adapter Network for Open-Vocabulary Semantic Segmentation,** CVPR 2023.
   
   *Xu, Mengde and Zhang, Zheng and Wei, Fangyun and Hu, Han and Bai, Xiang.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Side_Adapter_Network_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2023_paper.html)][[Code](https://mendelxu.github.io/SAN/)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Side_Adapter_Network_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2023_paper.html)][[Code](https://mendelxu.github.io/SAN/)] ![](https://img.shields.io/badge/SAN-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
 - **[5] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
   
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  [[Paper](https://arxiv.org/abs/2312.07856)][Code]
+  [[Paper](https://arxiv.org/abs/2312.07856)][Code] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[6] Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
   
   *Yin, Dongshuo and Han, Xueting and Li, Bin and Feng, Hao and Bai, Jing.*
 
-  [[Paper](https://arxiv.org/abs/2306.09729)][Code]
+  [[Paper](https://arxiv.org/abs/2306.09729)][Code] ![](https://img.shields.io/badge/E$^3$VA-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[7] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
   
   *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and others.*
 
-  [[Paper](https://arxiv.org/abs/2306.12737)][[Code](https://github.com/11yxk/SAM-LST)]
+  [[Paper](https://arxiv.org/abs/2306.12737)][[Code](https://github.com/11yxk/SAM-LST)] ![](https://img.shields.io/badge/SAM_LST-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 
 
