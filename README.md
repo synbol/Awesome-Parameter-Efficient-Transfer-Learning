@@ -4,7 +4,7 @@
 
 :fire: In this repository, we have systematically examined over 100 papers. Our survey can be obtained at [[Link]()].
 
-:fire: The repository is actively maintained. Pull requests or direct messages are welcome.
+:fire: This repository is actively maintained. Pull requests or direct messages are welcome.
 
 :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
