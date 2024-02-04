@@ -324,27 +324,27 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ### Prefix Tuning
 - **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
   
-  *Li, Xiang Lisa and Liang, Percy.*
+  *Li, Xiang Lisa and Liang, Percy.* 
 
-  [[Paper](https://arxiv.org/abs/2101.00190)][[Code](https://github.com/XiangLi1999/PrefixTuning)]
+  [[Paper](https://arxiv.org/abs/2101.00190)][[Code](https://github.com/XiangLi1999/PrefixTuning)] ![](https://img.shields.io/badge/Prefix_Tuning-blue)
 
 - **[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
   
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
-  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)] ![](https://img.shields.io/badge/V_PETL-blue) ![](https://img.shields.io/badge/Video_Recognition-green)
 
 - **[3] Exploring Efficient Few-shot Adaptation for Vision Transformers,** TMLR 2023.
   
   *Xu, Chengming and Yang, Siqian and Wang, Yabiao and Wang, Zhanxiong and Fu, Yanwei and Xue, Xiangyang.*
 
-  [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)]
+  [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)] ![](https://img.shields.io/badge/eTT-blue) ![](https://img.shields.io/badge/Few_Shot_Learning-green)
 
 - **[4] Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning,** CVPR 2023.
   
   *Tu, Cheng-Hao and Mai, Zheda and Chao, Wei-Lun.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)][[Code](https://github.com/andytu28/VQT)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)][[Code](https://github.com/andytu28/VQT)] ![](https://img.shields.io/badge/VQT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 
 ### Side Tuning
