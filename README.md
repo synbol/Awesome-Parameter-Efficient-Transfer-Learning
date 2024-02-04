@@ -2,9 +2,11 @@
 
 :fire: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
 
+:fire: In this repository, we have systematically examined over 100 papers. Our survey can be obtained at [[Link]()].
+
 :fire: The repository is actively maintained. Pull requests or direct messages are welcome.
 
-:fire: **Visual PEFT Library/Benchmark is coming soon...**
+:fire: **Visual PEFT Library/Benchmark is coming soon.**
 
 ## Table of Contents
 - [Introduction](#introduction)
