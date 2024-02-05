@@ -340,7 +340,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Xu, Chengming and Yang, Siqian and Wang, Yabiao and Wang, Zhanxiong and Fu, Yanwei and Xue, Xiangyang.*
 
-  [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)] ![](https://img.shields.io/badge/eTT-blue) ![](https://img.shields.io/badge/Few_Shot_Learning-green) ![](https://img.shields.io/badge/Unified_View-orange)
+  [[Paper](https://arxiv.org/pdf/2301.02419.pdf)][[Code](https://github.com/chmxu/eTT_TMLR2022)] ![](https://img.shields.io/badge/eTT-blue) ![](https://img.shields.io/badge/Few_Shot_Learning-green)
 
 - **[4] Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning,** CVPR 2023.
   
@@ -348,7 +348,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Tu_Visual_Query_Tuning_Towards_Effective_Usage_of_Intermediate_Representations_for_CVPR_2023_paper.html)][[Code](https://github.com/andytu28/VQT)] ![](https://img.shields.io/badge/VQT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
-- **[5] AUnified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
+- **[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
   
   *Tu, Cheng-Hao and Mai, Zheda and Chao, Wei-Lun.*
 
@@ -412,31 +412,31 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Zaken, Elad Ben and Ravfogel, Shauli and Goldberg, Yoav.*
 
-  [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)]
-  
-- **[3] AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,** NAACL 2022.
-  
-  *Fu, Chin-Lun and Chen, Zih-Ching and Lee, Yun-Ru and Lee, Hung-yi.*
+  [[Paper](https://arxiv.org/pdf/2106.10199.pdf)][[Code](https://github.com/benzakenelad/BitFit)] ![](https://img.shields.io/badge/BitFit-blue) ![](https://img.shields.io/badge/Bias_Tuning-orange)
 
-  [[Paper](https://arxiv.org/abs/2205.00305)][[Code](https://github.com/Allen0307/AdapterBias)]
-
-- **[4] Differentially Private Bias-Term only Fine-tuning of Foundation Models,** Arxiv 2022.
+- **[3] Differentially Private Bias-Term only Fine-tuning of Foundation Models,** Arxiv 2022.
   
   *Bu, Zhiqi and Wang, Yu-Xiang and Zha, Sheng and Karypis, George.*
 
-  [[Paper](https://arxiv.org/abs/2210.00036)][Code]
+  [[Paper](https://arxiv.org/abs/2210.00036)][Code] ![](https://img.shields.io/badge/DP_BiTFiT-blue) ![](https://img.shields.io/badge/Bias_Tuning-orange)
+  
+- **[4] AdapterBias: Parameter-efficient Token-dependent Representation Shift for Adapters in NLP Tasks,** NAACL 2022.
+  
+  *Fu, Chin-Lun and Chen, Zih-Ching and Lee, Yun-Ru and Lee, Hung-yi.*
 
+  [[Paper](https://arxiv.org/abs/2205.00305)][[Code](https://github.com/Allen0307/AdapterBias)] ![](https://img.shields.io/badge/AdapterBias-blue) ![](https://img.shields.io/badge/LayerNorm_Tuning-orange)
+  
 - **[5] Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
   
   *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
 
-  [[Paper](https://arxiv.org/abs/2304.01917)][Code]
+  [[Paper](https://arxiv.org/abs/2304.01917)][Code] ![](https://img.shields.io/badge/LN_TUNE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/LayerNorm_Tuning-orange)
 
 - **[6] DiffFit: Unlocking Transferability of Large Diffusion Models via Simple Parameter-Efficient Fine-Tuning,** ICCV 2023.
   
   *Enze Xie, Lewei Yao, Han Shi, Zhili Liu, Daquan Zhou, Zhaoqiang Liu, Jiawei Li, Zhenguo Li.*
 
-  [[Paper](https://arxiv.org/abs/2304.06648)][[Code](https://github.com/mkshing/DiffFit-pytorch)]
+  [[Paper](https://arxiv.org/abs/2304.06648)][[Code](https://github.com/mkshing/DiffFit-pytorch)] ![](https://img.shields.io/badge/DiffFit-blue) ![](https://img.shields.io/badge/Generate_Task-green) ![](https://img.shields.io/badge/Bias_Tuning-orange)
 
 ### Reparameter Tuning
 - **[1] LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
