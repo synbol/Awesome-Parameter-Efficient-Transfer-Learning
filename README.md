@@ -8,14 +8,14 @@
 
 :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
+![avatar](Overeview.png)
+
 ## Table of Contents
 - [Introduction](#introduction)
 
 - [Keywords](#keywords)
 
 - [Papers](#papers)
-
-  - [Overview](#overview)
   
   - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
@@ -48,8 +48,6 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ![](https://img.shields.io/badge/Other-orange) Other important information of the work.
 
 ## Papers
-### Overview
-![avatar](Overeview.png)
 ### Addition-based Tuning
 ### Adapter Tuning
 - **[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
