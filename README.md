@@ -443,61 +443,61 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Hu, Edward J and Shen, Yelong and Wallis, Phillip and Allen-Zhu, Zeyuan and Li, Yuanzhi and others.*
 
-  [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)]
+  [[Paper](https://arxiv.org/pdf/2106.09685.pdf)][[Code](https://github.com/microsoft/LoRA)] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 - **[2] Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning,** NeurIPS 2022.
   
   *Dongze Lian, Daquan Zhou, Jiashi Feng, Xinchao Wang.*
 
-  [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)]
+  [[Paper](https://arxiv.org/abs/2210.08823)][[Code](https://github.com/dongzelian/SSF)] ![](https://img.shields.io/badge/SSF-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MLP_Tuning-orange)
 
 - **[3] KronA: Parameter Efficient Tuning with Kronecker Adapter,** Arxiv 2023.
   
   *Ali Edalati, Marzieh Tahaei, Ivan Kobyzev, Vahid Partovi Nia, James J. Clark, Mehdi Rezagholizadeh.*
 
-  [[Paper](https://arxiv.org/abs/2212.10650))][Code]
+  [[Paper](https://arxiv.org/abs/2212.10650))][Code] ![](https://img.shields.io/badge/KronA-blue) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 - **[4] FacT: Factor-Tuning for Lightweight Adaptation on Vision Transformer,** AAAI 2023.
   
   *Jie, Shibo and Deng, Zhi-Hong.*
 
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25187)][Code]
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25187)][Code] ![](https://img.shields.io/badge/FacT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Tensorization_Decomposition-orange)
 
 - **[5] Aggregate, Decompose, and Fine-Tune: A Simple Yet Effective Factor-Tuning Method for Vision Transformer,** Arxiv 2023.
   
   *Chen, Dongping.*
 
-  [[Paper](https://arxiv.org/abs/2311.06749)][Code]
+  [[Paper](https://arxiv.org/abs/2311.06749)][[Code](https://github.com/Dongping-Chen/EFFT-EFfective-Factor-Tuning)] ![](https://img.shields.io/badge/EFFT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Tensorization_Decomposition-orange)
 
 - **[6] Strong Baselines for Parameter Efficient Few-Shot Fine-tuning,** AAAI 2024.
   
   *Basu, Samyadeep and Massiceti, Daniela and Hu, Shell Xu and Feizi, Soheil.*
 
-  [[Paper](https://arxiv.org/abs/2304.01917)][Code]
+  [[Paper](https://arxiv.org/abs/2304.01917)][Code] ![](https://img.shields.io/badge/ATTNSCALE-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 - **[7] Parameter-efficient Model Adaptation for Vision Transformers,** AAAI 2023.
   
   *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
 
-  [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
+  [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)] ![](https://img.shields.io/badge/KAdaptation-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 - **[8] DnA: Improving Few-Shot Transfer Learning with Low-Rank Decomposition and Alignment,** ECCV 2022.
   
   *Jiang, Ziyu and Chen, Tianlong and Chen, Xuxi and Cheng, Yu and Zhou, Luowei and Yuan, Lu and others.*
 
-  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_14)][[Code](https://github.com/VITA-Group/DnA)]
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20044-1_14)][[Code](https://github.com/VITA-Group/DnA)] ![](https://img.shields.io/badge/DnA-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 - **[9] Towards Efficient Visual Adaption via Structural Re-parameterization,** Arxiv 2023.
   
   *Luo, Gen and Huang, Minglang and Zhou, Yiyi and Sun, Xiaoshuai and Jiang, Guannan and Wang, Zhiyu and Ji, Rongrong.*
 
-  [[Paper](https://arxiv.org/abs/2302.08106)][[Code](https://github.com/luogen1996/RepAdapter)]
+  [[Paper](https://arxiv.org/abs/2302.08106)][[Code](https://github.com/luogen1996/RepAdapter)] ![](https://img.shields.io/badge/RepAdapter-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Adapter_Reparameter-orange)
 
 - **[10]SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction,** AAAI 2024.
   
   *Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.*
 
-  [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()]
+  [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()] ![](https://img.shields.io/badge/SAM_PARSER-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
 ### Unified Tuning
 - **[1] Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
