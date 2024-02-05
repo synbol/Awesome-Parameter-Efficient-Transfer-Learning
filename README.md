@@ -9,7 +9,7 @@
 :fire: :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
 <div align="center">
-<img src="Overeview.png" width="96%" height="96%">
+<img src="Overeview.png" width="100%" height="100%">
 </div>
 
 ## Table of Contents
