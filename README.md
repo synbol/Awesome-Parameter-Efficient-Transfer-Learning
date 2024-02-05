@@ -1,12 +1,12 @@
 # Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-:loudspeaker: :loudspeaker: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
+:fire: :fire: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
 
-:loudspeaker: :loudspeaker: In this repository, we have systematically examined over 100 papers. If you are interested, consider reading our recent survey paper [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey]().
+:fire: :fire: In this repository, we have systematically examined over 100 papers. If you are interested, consider reading our recent survey paper [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey]().
 
-:loudspeaker: :loudspeaker: This repository is actively maintained. Pull requests or direct messages are welcome.
+:fire: :fire: This repository is actively maintained. Pull requests or direct messages are welcome.
 
-:loudspeaker: :loudspeaker: **Visual PEFT Library/Benchmark is coming soon.**
+:fire: :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
 ![avatar](Overeview.png)
 
