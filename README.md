@@ -156,13 +156,13 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Jingjing Jiang, Nanning Zheng.*
   
-  [[Paper](https://web3.arxiv.org/abs/2303.01239)][[Code](https://github.com/jingjing12110/MixPHM)] ![](https://img.shields.io/badge/MixPHM-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
+  [[Paper](https://web3.arxiv.org/abs/2303.01239)][[Code](https://github.com/jingjing12110/MixPHM)] ![](https://img.shields.io/badge/MixPHM-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Optimization-orange)
 
 - **[19] Vision Transformers are Parameter-Efficient Audio-Visual Learners,** CVPR 2023.
 
   *Yan-Bo Lin, Yi-Lin Sung, Jie Lei, Mohit Bansal, Gedas Bertasius.*
   
-  [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)] ![](https://img.shields.io/badge/LAVISH-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)] ![](https://img.shields.io/badge/LAVISH-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 
 - **[20] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** Arxiv 2023.
@@ -265,7 +265,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Chen, Aochuan and Yao, Yuguang and Chen, Pin-Yu and Zhang, Yihua and Liu, Sijia.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)] ![](https://img.shields.io/badge/ILM-VP-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)] ![](https://img.shields.io/badge/ILM_VP-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 
 - **[15] Learning to Prompt for Vision-Language Models,** IJCV 2022.
@@ -296,7 +296,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
 
-  [[Paper](https://arxiv.org/abs/2303.01788)][Code] ![](https://img.shields.io/badge/VE-Prompt-blue) ![](https://img.shields.io/badge/Multi_Task-green) ![](https://img.shields.io/badge/Autonomous_Driving-green)
+  [[Paper](https://arxiv.org/abs/2303.01788)][Code] ![](https://img.shields.io/badge/VE_Prompt-blue) ![](https://img.shields.io/badge/Multi_Task-green) ![](https://img.shields.io/badge/Autonomous_Driving-green)
 
 - **[20] Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
   
@@ -366,7 +366,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+  [[Paper](https://arxiv.org/abs/2206.06522)][[Code](https://github.com/ylsung/Ladder-Side-Tuning)] ![](https://img.shields.io/badge/LST-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[3] Vision transformer adapter for dense predictions.** ICLR 2023.
 
@@ -390,7 +390,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Yin, Dongshuo and Han, Xueting and Li, Bin and Feng, Hao and Bai, Jing.*
 
-  [[Paper](https://arxiv.org/abs/2306.09729)][Code] ![](https://img.shields.io/badge/E$^3$VA-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+  [[Paper](https://arxiv.org/abs/2306.09729)][Code] ![](https://img.shields.io/badge/E3VA-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[7] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
   
