@@ -585,16 +585,16 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ## Datasets of Visual PEFT
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
-| **FGVC** | [Visual prompt tuning]([https://arxiv.org/pdf/2312.10665.pdf](https://arxiv.org/abs/2203.12119)) | [Link](https://cornell.app.box.com/v/vptfgvcsplits) | FGVC consists of 5 benchmarked Fine-Grained Visual Classification tasks. |
-| **VTAB-1k** | [A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark]([https://arxiv.org/abs/1910.04867])) | [Link](https://cornell.app.box.com/v/vptfgvcsplits) | VTAB-1k consists of 19 diverse visual classification tasks.|
-| **Kinetics-400** | [The kinetics human action video dataset.]([https://arxiv.org/abs/1705.06950])) | [Link](https://drive.google.com/file/d/11US3KptpqHsZ5K4wQLzs-OA3Y50OWtPJ/view?usp=sharing) | Video Action Recognition|
-| **SSv2** | [The “something something” Video Database for Learning and Evaluating Visual Common Sense]([https://arxiv.org/abs/1706.04261])) | [Link](https://developer.qualcomm.com/software/ai-datasets/something-something) | Video Action Recognition|
-| **HMDB51** | [HMDB:ALargeVideo Database for Human Motion Recognition]([http://cbcl.mit.edu/publications/ps/Kuehne_etal_iccv11.pdf])) | [Link](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | Video Action Recognition|
-| **Diving-48** | [RESOUND: Towards Action Recognition without Representation Bias]([https://openaccess.thecvf.com/content_ECCV_2018/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf])) | [Link](http://www.svcl.ucsd.edu/projects/resound/dataset.html) | Video Action Recognition|
-| **UCF-101** | [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild]([https://arxiv.org/abs/1212.0402])) | [Link](https://www.crcv.ucf.edu/data/UCF101.php) | Video Action Recognition|
-| **MSCOCO** | [Microsoft COCO: Common Objects in Context]([https://arxiv.org/abs/1405.0312])) | [Link](http://cocodataset.org/) | Instance Segmentation|
-| **ADE20K** | [Semantic Understanding of Scenes through the ADE20K Dataset]([https://arxiv.org/abs/1608.05442])) | [Link](http://groups.csail.mit.edu/vision/datasets/ADE20K/) | Semantic Segmentation|
-| **PASCALVOC** | [The Pascal Visual Object Classes Challenge: A Retrospective]([https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-Challenge%3A-A-Everingham-Eslami/616b246e332573af1f4859aa91440280774c183a])) | [Link](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic Segmentation|
+| **FGVC** | [Visual prompt tuning](https://arxiv.org/abs/2203.12119) | [Link](https://cornell.app.box.com/v/vptfgvcsplits) | FGVC consists of 5 benchmarked Fine-Grained Visual Classification tasks. |
+| **VTAB-1k** | [A Large-scale Study of Representation Learning with the Visual Task Adaptation Benchmark](https://arxiv.org/abs/1910.04867) | [Link](https://cornell.app.box.com/v/vptfgvcsplits) | VTAB-1k consists of 19 diverse visual classification tasks.|
+| **Kinetics-400** | [The kinetics human action video dataset.](https://arxiv.org/abs/1705.06950) | [Link](https://drive.google.com/file/d/11US3KptpqHsZ5K4wQLzs-OA3Y50OWtPJ/view?usp=sharing) | Video Action Recognition|
+| **SSv2** | [The “something something” Video Database for Learning and Evaluating Visual Common Sense](https://arxiv.org/abs/1706.04261) | [Link](https://developer.qualcomm.com/software/ai-datasets/something-something) | Video Action Recognition|
+| **HMDB51** | [HMDB:ALargeVideo Database for Human Motion Recognition](http://cbcl.mit.edu/publications/ps/Kuehne_etal_iccv11.pdf) | [Link](http://serre-lab.clps.brown.edu/resource/hmdb-a-large-human-motion-database/) | Video Action Recognition|
+| **Diving-48** | [RESOUND: Towards Action Recognition without Representation Bias](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yingwei_Li_RESOUND_Towards_Action_ECCV_2018_paper.pdf) | [Link](http://www.svcl.ucsd.edu/projects/resound/dataset.html) | Video Action Recognition|
+| **UCF-101** | [UCF101: A Dataset of 101 Human Actions Classes From Videos in The Wild](https://arxiv.org/abs/1212.0402) | [Link](https://www.crcv.ucf.edu/data/UCF101.php) | Video Action Recognition|
+| **MSCOCO** | [Microsoft COCO: Common Objects in Context](https://arxiv.org/abs/1405.0312) | [Link](http://cocodataset.org/) | Instance Segmentation|
+| **ADE20K** | [Semantic Understanding of Scenes through the ADE20K Dataset](https://arxiv.org/abs/1608.05442) | [Link](http://groups.csail.mit.edu/vision/datasets/ADE20K/) | Semantic Segmentation|
+| **PASCALVOC** | [The Pascal Visual Object Classes Challenge: A Retrospective](https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-Challenge%3A-A-Everingham-Eslami/616b246e332573af1f4859aa91440280774c183a) | [Link](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic Segmentation|
 
 ## Contributors
 
