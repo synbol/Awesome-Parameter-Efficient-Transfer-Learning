@@ -596,7 +596,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 | **ADE20K** | [Semantic Understanding of Scenes through the ADE20K Dataset](https://arxiv.org/abs/1608.05442) | [Link](http://groups.csail.mit.edu/vision/datasets/ADE20K/) | Semantic Segmentation|
 | **PASCALVOC** | [The Pascal Visual Object Classes Challenge: A Retrospective](https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-Challenge%3A-A-Everingham-Eslami/616b246e332573af1f4859aa91440280774c183a) | [Link](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic Segmentation|
 
-## Contributors
+## Contribution
 
 <!-- Copy-paste in your Readme.md file -->
 
