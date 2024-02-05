@@ -8,7 +8,7 @@
 
 :fire: :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
-![avatar](Overeview.png)
+<img src="Overeview.png" width="96%" height="96%">
 
 ## Table of Contents
 - [Introduction](#introduction)
