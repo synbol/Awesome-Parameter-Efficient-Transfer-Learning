@@ -132,13 +132,13 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Sung, Yi-Lin and Cho, Jaemin and Bansal, Mohit.*
 
-  [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  [[Paper](https://arxiv.org/abs/2112.06825)][[Code](https://github.com/ylsung/VL_adapter)] ![](https://img.shields.io/badge/VL_adapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
   
 - **[15] UniAdapter: Unified Parameter-Efficient Transfer Learning for Cross-modal Modeling,** AAAI 2024.
   
   *Haoyu Lu, Mingyu Ding, Yuqi Huo, Guoxing Yang, Zhiwu Lu, Masayoshi Tomizuka, Wei Zhan.*
 
-  [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)] ![](https://img.shields.io/badge/UniAdapter-blue) ![](https://img.shields.io/badge/Cross-Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+  [[Paper](https://arxiv.org/abs/2302.06605)][[Code](https://github.com/RERV/UniAdapter)] ![](https://img.shields.io/badge/UniAdapter-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 - **[16] Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model,** Arxiv 2023.
 
