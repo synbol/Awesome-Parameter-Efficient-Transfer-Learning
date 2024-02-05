@@ -182,141 +182,145 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Menglin Jia, Luming Tang, Bor-Chun Chen, Claire Cardie, Serge Belongie, Bharath Hariharan, Ser-Nam Lim.*
 
-  [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)]
+  [[Paper](https://arxiv.org/abs/2203.12119)][[Code](https://github.com/kmnp/vpt)] ![](https://img.shields.io/badge/VPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[2] Visual Prompt Tuning for Test-time Domain Adaptation,** Arxiv 2022.
   
   *Gao, Yunhe and Shi, Xingjian and Zhu, Yi and Wang, Hao and Tang, Zhiqiang and Zhou, Xiong and others.*
 
-  [[Paper](https://arxiv.org/abs/2203.12119)][Code]
+  [[Paper](https://arxiv.org/pdf/2210.04831.pdf)][Code] ![](https://img.shields.io/badge/DePT-blue) ![](https://img.shields.io/badge/Test_Time_Adaptation-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[3] LPT: Long-tailed Prompt Tuning for Image Classification,** ICLR 2023.
   
   *Dong, Bowen and Zhou, Pan and Yan, Shuicheng and Zuo, Wangmeng.*
 
-  [[Paper](https://arxiv.org/abs/2210.01033)][[Code](https://github.com/DongSky/LPT)]
+  [[Paper](https://arxiv.org/abs/2210.01033)][[Code](https://github.com/DongSky/LPT)] ![](https://img.shields.io/badge/LPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[4] Pro-tuning: Unified Prompt Tuning for Vision Tasks,** TCSVT 2023.
   
   *Nie, Xing and Ni, Bolin and Chang, Jianlong and Meng, Gaofeng and Huo, Chunlei and others.*
 
-  [[Paper](https://arxiv.org/abs/2207.14381)][Code]
+  [[Paper](https://arxiv.org/abs/2207.14381)][Code] ![](https://img.shields.io/badge/Pro_tuning-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[5] Instance-aware Dynamic Prompt Tuning for Pre-trained Point Cloud Models,** ICCV 2023.
   
   *Zha, Yaohua and Wang, Jinpeng and Dai, Tao and Chen, Bin and Wang, Zhi and Xia, Shu-Tao.*
 
-  [[Paper](https://arxiv.org/pdf/2304.07221.pdf)][[Code](https://github.com/zyh16143998882/ICCV23-IDPT)]
+  [[Paper](https://arxiv.org/pdf/2304.07221.pdf)][[Code](https://github.com/zyh16143998882/ICCV23-IDPT)] ![](https://img.shields.io/badge/IDPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+
 
 - **[6] Visual Prompt Multi-Modal Tracking,** CVPR 2023.
   
   *Zhu, Jiawen and Lai, Simiao and Chen, Xin and Wang, Dong and Lu, Huchuan.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)][[Code](https://github.com/jiawen-zhu/ViPT)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhu_Visual_Prompt_Multi-Modal_Tracking_CVPR_2023_paper.html)][[Code](https://github.com/jiawen-zhu/ViPT)] ![](https://img.shields.io/badge/ViPT-blue) ![](https://img.shields.io/badge/MultiModal_Tracking-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[7] LION: Implicit Vision Prompt Tuning,** AAAI 2024.
   
   *Wang, Haixin and Chang, Jianlong and Luo, Xiao and Sun, Jinan and Lin, Zhouchen and Tian, Qi.*
 
-  [[Paper](https://arxiv.org/abs/2303.09992)][Code]
+  [[Paper](https://arxiv.org/abs/2303.09992)][Code] ![](https://img.shields.io/badge/LION-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 
 - **[8] Convolutional Visual Prompt for Robust Visual Perception,** NeurIPS 2023.
   
   *Tsai, Yun-Yun and Mao, Chengzhi and Yang, Junfeng.*
 
-  [[Paper](https://openreview.net/forum?id=qgmrC8jhCo)][Code]
+  [[Paper](https://openreview.net/forum?id=qgmrC8jhCo)][Code] ![](https://img.shields.io/badge/CVP-blue) ![](https://img.shields.io/badge/Test_Time_Adaptation-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+
 
 
 - **[9] ProSFDA: Prompt Learning based Source-free Domain Adaptation for Medical Image Segmentation,** Arxiv 2023.
   
   *Hu, Shishuai and Liao, Zehui and Xia, Yong.*
 
-  [[Paper](https://arxiv.org/abs/2211.11514)][[Code](https://github.com/ShishuaiHu/ProSFDA)]
+  [[Paper](https://arxiv.org/abs/2211.11514)][[Code](https://github.com/ShishuaiHu/ProSFDA)] ![](https://img.shields.io/badge/ProSFDA-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
+
 
 - **[10] Explicit Visual Prompting for Low-Level Structure Segmentations,** CVPR 2023.
   
   *Liu, Weihuang and Shen, Xi and Pun, Chi-Man and Cun, Xiaodong.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)][[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Explicit_Visual_Prompting_for_Low-Level_Structure_Segmentations_CVPR_2023_paper.html)][[Code](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)] ![](https://img.shields.io/badge/EVP-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 - **[11] P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting,** NeurIPS 2022.
   
   *Wang, Ziyi and Yu, Xumin and Rao, Yongming and Zhou, Jie and Lu, Jiwen.*
 
-  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)][[Code](https://github.com/wangzy22/P2P)]
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/5cd6dc946ccc37ae6c9f4fc6b6181e1d-Abstract-Conference.html)][[Code](https://github.com/wangzy22/P2P)] ![](https://img.shields.io/badge/P2P-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 - **[12] Exploring Visual Prompts for Adapting Large-Scale Models,** Arxiv 2022.
   
   *Bahng, Hyojin and Jahanian, Ali and Sankaranarayanan, Swami and Isola, Phillip.*
 
-  [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://hjbahng.github.io/visual_prompting/)]
+  [[Paper](https://arxiv.org/abs/2203.17274)][[Code](https://hjbahng.github.io/visual_prompting/)] ![](https://img.shields.io/badge/VP-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 - **[13] Unleashing the Power of Visual Prompting At the Pixel Level,** Arxiv 2023.
   
   *Wu, Junyang and Li, Xianhang and Wei, Chen and Wang, Huiyu and Yuille, Alan and Zhou, Yuyin and Xie, Cihang.*
 
-  [[Paper](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/UCSC-VLAA/EVP)]
+  [[Paper](https://arxiv.org/abs/2212.10556)][[Code](https://github.com/UCSC-VLAA/EVP)] ![](https://img.shields.io/badge/EVP-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
 
 - **[14] Understanding and Improving Visual Prompting: A Label-Mapping Perspective,** CVPR 2023.
   
   *Chen, Aochuan and Yao, Yuguang and Chen, Pin-Yu and Zhang, Yihua and Liu, Sijia.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_Understanding_and_Improving_Visual_Prompting_A_Label-Mapping_Perspective_CVPR_2023_paper.html)][[Code](https://github.com/OPTML-Group/ILM-VP)] ![](https://img.shields.io/badge/ILM-VP-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+
 
 - **[15] Learning to Prompt for Vision-Language Models,** IJCV 2022.
   
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)]
+  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 - **[16] Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
   
   *He, Yun and Zheng, Steven and Tay, Yi and Gupta, Jai and Du, Yu and Aribandi, Vamsi and others.*
 
-  [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code]
+  [[Paper](https://proceedings.mlr.press/v162/he22f.html)][Code] ![](https://img.shields.io/badge/HyperPrompt-blue) ![](https://img.shields.io/badge/Multi_Task-green)
 
 - **[17] MaPLe: Multi-modal Prompt Learning,** CVPR 2023.
   
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)]
+  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 - **[18] Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
   
   *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and others.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code]
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code] ![](https://img.shields.io/badge/HiPro-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 - **[19] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
   
   *Liang, Xiwen and Niu, Minzhe and Han, Jianhua and Xu, Hang and Xu, Chunjing and Liang, Xiaodan.*
 
-  [[Paper](https://arxiv.org/abs/2303.01788)][Code]
+  [[Paper](https://arxiv.org/abs/2303.01788)][Code] ![](https://img.shields.io/badge/VE-Prompt-blue) ![](https://img.shields.io/badge/Multi_Task-green) ![](https://img.shields.io/badge/Autonomous_Driving-green)
 
 - **[20] Dual Modality Prompt Tuning for Vision-Language Pre-Trained Model,** TMM 2023.
   
   *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and others.*
 
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)]
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
 
 - **[21] Tokenize Anything via Prompting,** Arxiv 2023.
   
   *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
 
-  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)]
+  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Dense_Prediction-green)
 
 - **[22] MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
   
   *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
 
-  [[Paper](https://arxiv.org/abs/2312.08636)][Code]
+  [[Paper](https://arxiv.org/abs/2312.08636)][Code] ![](https://img.shields.io/badge/MmAP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
 
 - **[23] Diversity-Aware Meta Visual Prompting,** CVPR 2023.
   
   *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.*
 
-  [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)]
+  [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)] ![](https://img.shields.io/badge/DAM-blue) ![](https://img.shields.io/badge/Image_Classification-green)
 
 
 ### Prefix Tuning
