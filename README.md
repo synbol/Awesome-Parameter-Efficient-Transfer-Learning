@@ -272,7 +272,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Kaiyang Zhou, Jingkang Yang, Chen Change Loy, Ziwei Liu.*
 
-  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
+  [[Paper](https://arxiv.org/abs/2109.01134)][[Code](https://github.com/KaiyangZhou/CoOp)] ![](https://img.shields.io/badge/CoOp-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 - **[16] Hyperprompt: Prompt-based task-conditioning of transformers,** ICML 2022.
   
@@ -284,13 +284,13 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Khattak, Muhammad Uzair and Rasheed, Hanoona and Maaz, Muhammad and others.*
 
-  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
+  [[Paper](https://arxiv.org/abs/2210.03117)][[Code](https://github.com/muzairkhattak/multimodal-prompt-learning)] ![](https://img.shields.io/badge/MaPLe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 - **[18] Hierarchical Prompt Learning for Multi-Task Learning,** CVPR 2023.
   
   *Liu, Yajing and Lu, Yuning and Liu, Hao and An, Yaozu and Xu, Zhuoran and Yao, Zhuokun and others.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code] ![](https://img.shields.io/badge/HiPro-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.html)][Code] ![](https://img.shields.io/badge/HiPro-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Text_Prompt-orange)
 
 - **[19] Visual Exemplar Driven Task-Prompting for Unified Perception in Autonomous Driving,** CVPR 2023.
   
@@ -302,26 +302,26 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   *Xing, Yinghui and Wu, Qirui and Cheng, De and Zhang, Shizhou and Liang, Guoqiang and others.*
 
-  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green)
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/10171397/)][[Code](https://github.com/fanrena/DPT)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) 
 
 - **[21] Tokenize Anything via Prompting,** Arxiv 2023.
   
   *Pan, Ting and Tang, Lulu and Wang, Xinlong and Shan, Shiguang.*
 
-  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Dense_Prediction-green)
+  [[Paper](https://arxiv.org/pdf/2312.09128.pdf)][[Code](https://github.com/baaivision/tokenize-anything)] ![](https://img.shields.io/badge/DPT-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) 
 
 - **[22] MmAP : Multi-modal Alignment Prompt for Cross-domain Multi-task Learning,** AAAI 2024.
   
   *Yi Xin, Junlong Du, Qiang Wang, Ke Yan, Shouhong Ding.*
 
-  [[Paper](https://arxiv.org/abs/2312.08636)][Code] ![](https://img.shields.io/badge/MmAP-blue) ![](https://img.shields.io/badge/Image_Classification-green)
+  [[Paper](https://arxiv.org/abs/2312.08636)][Code] ![](https://img.shields.io/badge/MmAP-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/MultiModal_Prompt-orange)
 
 - **[23] Diversity-Aware Meta Visual Prompting,** CVPR 2023.
   
   *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.*
 
-  [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)] ![](https://img.shields.io/badge/DAM-blue) ![](https://img.shields.io/badge/Image_Classification-green)
-
+  [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)] ![](https://img.shields.io/badge/DAM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+ 
 
 ### Prefix Tuning
 - **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
