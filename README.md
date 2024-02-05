@@ -504,31 +504,31 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   *Junxian He, Chunting Zhou, Xuezhe Ma, Taylor Berg-Kirkpatrick, Graham Neubig.*
 
-  [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)]
+  [[Paper](https://arxiv.org/abs/2110.04366)][[Code](https://github.com/jxhe/unify-parameter-efficient-tuning)] ![](https://img.shields.io/badge/Unified_View-orange)
 
 - **[2] Towards a Unified View on Visual Parameter-Efficient Transfer Learning,** Arxiv 2023.
 
   *Yu, Bruce XB and Chang, Jianlong and Liu, Lingbo and Tian, Qi and Chen, Chang Wen.*
 
-  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)]
+  [[Paper](https://arxiv.org/abs/2210.00788)][[Code](https://github.com/bruceyo/V-PETL)] ![](https://img.shields.io/badge/V_PETL-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Unified_View-orange)
 
 - **[3] Neural Prompt Search,** Arxiv 2022.
   
   *Zhang, Yuanhan and Zhou, Kaiyang and Liu, Ziwei.*
 
-  [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/Davidzhangyuanhan/NOAH)]
+  [[Paper](https://arxiv.org/abs/2206.04673)][[Code](https://github.com/Davidzhangyuanhan/NOAH)] ![](https://img.shields.io/badge/NOAH-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Framework-orange)
 
 - **[4] Rethinking Efficient Tuning Methods from a Unified Perspective,** Arxiv 2023.
   
   *Jiang, Zeyinzi and Mao, Chaojie and Huang, Ziyuan and Lv, Yiliang and Zhao, Deli and Zhou, Jingren.*
 
-  [[Paper](https://arxiv.org/pdf/2303.00690.pdf)][Code]
+  [[Paper](https://arxiv.org/pdf/2303.00690.pdf)][Code] ![](https://img.shields.io/badge/U_Tuning-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Unified_View-orange)
 
 - **[5] A Unified Continual Learning Framework with General Parameter-Efficient Tuning,** ICCV 2023.
   
   *Gao, Qiankun and Zhao, Chen and Sun, Yifan and Xi, Teng and Zhang, Gang and Ghanem, Bernard and Zhang, Jian.*
 
-  [[Paper](https://arxiv.org/abs/2303.10070)][[Code](https://github.com/gqk/LAE)]
+  [[Paper](https://arxiv.org/abs/2303.10070)][[Code](https://github.com/gqk/LAE)] ![](https://img.shields.io/badge/LAM-blue) ![](https://img.shields.io/badge/Continual_Learning-green) ![](https://img.shields.io/badge/Framework-orange)
 
 
 ### Others
