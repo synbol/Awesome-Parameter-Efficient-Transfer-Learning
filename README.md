@@ -562,7 +562,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/abs/2303.10070)][[Code](https://github.com/gqk/LAE)] ![](https://img.shields.io/badge/LAM-blue) ![](https://img.shields.io/badge/Continual_Learning-green) ![](https://img.shields.io/badge/Framework-orange)
 
-- **GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction,** Arxiv 2023.
+- **[6] GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction,** Arxiv 2023.
 
   *Jiacheng Ruan, Jingsheng Gao, Mingye Xie, Suncheng Xiang, Zefang Yu, Ting Liu, Yuzhuo Fu.*
 
