@@ -2,7 +2,7 @@
 
 :fire: :fire: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
 
-:fire: :fire: In this repository, we have systematically examined over 100 papers. If you are interested, consider reading our recent survey paper [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey]().
+:fire: :fire: In this repository, we have systematically examined over 100 papers. If you are interested, consider reading our recent survey paper [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242).
 
 :fire: :fire: This repository is actively maintained. Pull requests or direct messages are welcome.
 
