@@ -179,6 +179,18 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   [[Paper](https://arxiv.org/abs/2312.16693)][[Code](https://github.com/I2V-Adapter/I2V-Adapter-repo)] ![](https://img.shields.io/badge/I2V_Adapter-blue) ![](https://img.shields.io/badge/Image2Video-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
+- **[22] AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models,** Arxiv 2023.
+
+  *Hang Guo, Tao Dai, Yuanchao Bai, Bin Chen, Shu-Tao Xia, Zexuan Zhu.*
+
+  [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][[Code](https://github.com/csguoh/AdaptIR)] ![](https://img.shields.io/badge/AdaptIR-blue) ![](https://img.shields.io/badge/Super_Resolution-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+
+- **[23] A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
+
+  *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
+  
+  [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)] ![](https://img.shields.io/badge/Unet_Finetune-blue) ![](https://img.shields.io/badge/Generate_Task-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
+
 ### Prompt Tuning
 - **[1] Visual Prompt Tuning,** ECCV 2022.
   
@@ -323,6 +335,12 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   *Qidong Huang, Xiaoyi Dong, Dongdong Chen, Weiming Zhang, Feifei Wang, Gang Hua, Nenghai Yu.*
 
   [[Paper](https://arxiv.org/abs/2303.08138)][[Code](https://arxiv.org/abs/2303.08138)] ![](https://img.shields.io/badge/DAM-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Pixel_Level-orange)
+
+- **[24] Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models,** AAAI 2024.
+
+  *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
+
+  [[Paper](https://arxiv.org/abs/2310.03059)][Code] ![](https://img.shields.io/badge/Point_PEFT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
  
 
 ### Prefix Tuning
@@ -440,6 +458,18 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/abs/2304.06648)][[Code](https://github.com/mkshing/DiffFit-pytorch)] ![](https://img.shields.io/badge/DiffFit-blue) ![](https://img.shields.io/badge/Generate_Task-green) ![](https://img.shields.io/badge/Bias_Tuning-orange)
 
+- **[7] Gradient-based Parameter Selection for Efficient Fine-Tuning,** Arxiv 2023.
+  
+  *Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.*
+
+  [[Paper](https://arxiv.org/abs/2312.10136)][[Code]()] ![](https://img.shields.io/badge/GPS-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Importance_Parameter_Tuning-orange)
+
+- **[8] Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning,** ICCV 2023.
+  
+  *Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang.*
+
+  [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] ![](https://img.shields.io/badge/SPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Importance_Parameter_Tuning-orange)
+
 ### Reparameter Tuning
 - **[1] LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
@@ -532,55 +562,11 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/abs/2303.10070)][[Code](https://github.com/gqk/LAE)] ![](https://img.shields.io/badge/LAM-blue) ![](https://img.shields.io/badge/Continual_Learning-green) ![](https://img.shields.io/badge/Framework-orange)
 
-
-### Others
-- **Parameter-efficient Model Adaptation for Vision Transformers.** AAAI 2023.
-
-  *He, Xuehai and Li, Chunyuan and Zhang, Pengchuan and Yang, Jianwei and Wang, Xin Eric.*
-
-  [[Paper](https://arxiv.org/abs/2203.16329)][[Code](https://github.com/eric-ai-lab/PEViT)]
-
-- **Gradient-based Parameter Selection for Efficient Fine-Tuning,** Arxiv 2023.
-  
-  *Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.*
-
-  [[Paper](https://arxiv.org/abs/2312.10136)][[Code]()]
-
-- **Three things everyone should know about Vision Transformers,** ECCV 2022.
-  
-  *Hugo Touvron, Matthieu Cord, Alaaeldin El-Nouby, Jakob Verbeek, Hervé Jégou.*
-
-  [[Paper](https://arxiv.org/abs/2203.09795)][[Code]()]
-
-- **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning,** ICCV 2023.
-  
-  *Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang.*
-
-  [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)]
-
 - **GIST: Improving Parameter Efficient Fine Tuning via Knowledge Interaction,** Arxiv 2023.
 
   *Jiacheng Ruan, Jingsheng Gao, Mingye Xie, Suncheng Xiang, Zefang Yu, Ting Liu, Yuzhuo Fu.*
 
-  [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code]
-
-- **Point-PEFT: Parameter-Efficient Fine-Tuning for 3D Pre-trained Models,** AAAI 2024.
-
-  *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
-
-  [[Paper](https://arxiv.org/abs/2310.03059)][Code]
-
-- **AdaptIR: Parameter Efficient Multi-task Adaptation for Pre-trained Image Restoration Models,** Arxiv 2023.
-
-  *Hang Guo, Tao Dai, Yuanchao Bai, Bin Chen, Shu-Tao Xia, Zexuan Zhu.*
-
-  [[Paper](https://arxiv.org/pdf/2312.08881.pdf)][[Code](https://github.com/csguoh/AdaptIR)]
-
-- **A Closer Look at Parameter-Efficient Tuning in Diffusion Models,** Arxiv 2023.
-
-  *Chendong Xiang, Fan Bao, Chongxuan Li, Hang Su, Jun Zhu.*
-  
-  [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)]
+  [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code] ![](https://img.shields.io/badge/GIST-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Framework-orange)
 
 ## Datasets of Visual PEFT
 | Name | Paper | Link | Notes |
