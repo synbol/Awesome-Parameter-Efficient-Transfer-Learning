@@ -13,24 +13,21 @@
 </div>
 
 ## Table of Contents
-- [Awesome Parameter-Efficient Fine-Tuning ](#awesome-parameter-efficient-fine-tuning-)
-  - [Table of Contents](#table-of-contents)
-  - [Introduction](#introduction)
-  - [Keywords](#keywords)
-  - [Papers](#papers)
-    - [Addition-based Tuning](#addition-based-tuning)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
+- [Keywords](#keywords)
+- [Papers](#papers)
+  - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
     - [Prompt Tuning](#prompt-tuning)
     - [Prefix Tuning](#prefix-tuning)
     - [Side Tuning](#side-tuning)
-    - [Partial-based Tuning](#partial-based-tuning)
+  - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
     - [Reparameter Tuning](#reparameter-tuning)
     - [Unified Tuning](#unified-tuning)
-  - [Datasets of Visual PEFT](#datasets-of-visual-peft)
-  - [Contribution](#contribution)
-    - [:clap: Thanks to the above contributors for this excellent work！](#clap-thanks-to-the-above-contributors-for-this-excellent-work)
-  - [Citation](#citation)
+- [Datasets](#datasets-of-visual-peft)
+- [Citation](#citation)
 
 ## Introduction
 Pre-trained vision models (PVMs) have shown great potential for adaptability across various downstream vision tasks. However, with state-of-the-art PVMs growing to billions or even trillions of parameters, the standard full fine-tuning paradigm is becoming unsustainable due to high computational and storage demands. In response, researchers are exploring **Parameter-Efficient Fine-Tuning (PEFT)**, which seeks to exceed the performance of full fine-tuning with minimal parameter modifications. This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**. This repository also introduces commonly used datasets and applications.
@@ -334,7 +331,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
 
   [[Paper](https://arxiv.org/abs/2310.03059)][Code] ![](https://img.shields.io/badge/Point_PEFT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
- 
+
 
 ### Prefix Tuning
 - **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
