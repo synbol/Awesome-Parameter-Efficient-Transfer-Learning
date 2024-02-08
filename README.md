@@ -13,31 +13,24 @@
 </div>
 
 ## Table of Contents
-- [Introduction](#introduction)
-
-- [Keywords](#keywords)
-
-- [Papers](#papers)
-  
-  - [Addition-based Tuning](#addition-based-tuning)
+- [Awesome Parameter-Efficient Fine-Tuning ](#awesome-parameter-efficient-fine-tuning-)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Keywords](#keywords)
+  - [Papers](#papers)
+    - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
-  
     - [Prompt Tuning](#prompt-tuning)
-  
     - [Prefix Tuning](#prefix-tuning)
-  
     - [Side Tuning](#side-tuning)
-  
-  - [Partial-based Tuning](#partial-based-tuning)
+    - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
-    
-    - [Repatameter Tuning](#repatameter-tuning)
-  
-  - [Unified Tuning](#unified-tuning)
-
-- [Datasets](#Datasets-of-Visual-PEFT)
-
-- [Contribution](#contribution)
+    - [Reparameter Tuning](#reparameter-tuning)
+    - [Unified Tuning](#unified-tuning)
+  - [Datasets of Visual PEFT](#datasets-of-visual-peft)
+  - [Contribution](#contribution)
+    - [:clap: Thanks to the above contributors for this excellent work！](#clap-thanks-to-the-above-contributors-for-this-excellent-work)
+  - [Citation](#citation)
 
 ## Introduction
 Pre-trained vision models (PVMs) have shown great potential for adaptability across various downstream vision tasks. However, with state-of-the-art PVMs growing to billions or even trillions of parameters, the standard full fine-tuning paradigm is becoming unsustainable due to high computational and storage demands. In response, researchers are exploring **Parameter-Efficient Fine-Tuning (PEFT)**, which seeks to exceed the performance of full fine-tuning with minimal parameter modifications. This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**. This repository also introduces commonly used datasets and applications.
@@ -167,7 +160,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)] ![](https://img.shields.io/badge/LAVISH-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 
-- **[20] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** Arxiv 2023.
+- **[20] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** AAAI 2024.
 
   *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and others.*
   
