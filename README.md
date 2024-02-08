@@ -25,7 +25,7 @@
   - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
     - [Reparameter Tuning](#reparameter-tuning)
-    - [Unified Tuning](#unified-tuning)
+  - [Unified Tuning](#unified-tuning)
 - [Datasets](#datasets-of-visual-peft)
 - [Citation](#citation)
 
