@@ -18,7 +18,7 @@
 - [Keywords](#keywords)
 
 - [Papers](#papers)
-  
+
   - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
   
@@ -30,12 +30,12 @@
   
   - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
-    
-    - [Repatameter Tuning](#repatameter-tuning)
+  
+    - [Reparameter Tuning](#reparameter-tuning)
   
   - [Unified Tuning](#unified-tuning)
-
-- [Datasets](#Datasets-of-Visual-PEFT)
+  
+- [Datasets](#datasets-of-visual-peft)
 
 - [Contribution](#contribution)
 
@@ -167,7 +167,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   [[Paper](https://arxiv.org/abs/2212.07983)][[Code](https://genjib.github.io/project_page/LAVISH/)] ![](https://img.shields.io/badge/LAVISH-blue) ![](https://img.shields.io/badge/Cross_Modal-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
 
-- **[20] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** Arxiv 2023.
+- **[20] T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models,** AAAI 2024.
 
   *Mou, Chong and Wang, Xintao and Xie, Liangbin and Zhang, Jian and Qi, Zhongang and others.*
   
@@ -341,7 +341,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   *Yiwen Tang, Ray Zhang, Zoey Guo, Xianzheng Ma, Dong Wang, Zhigang Wang, Bin Zhao, Xuelong Li.*
 
   [[Paper](https://arxiv.org/abs/2310.03059)][Code] ![](https://img.shields.io/badge/Point_PEFT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
- 
+
 
 ### Prefix Tuning
 - **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
