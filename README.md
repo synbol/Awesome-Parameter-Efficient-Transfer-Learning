@@ -587,7 +587,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 <!-- Copy-paste in your Readme.md file -->
 
 <a href="https://github.com/synbol/Awesome-Parameter-Efficient-Transfer-Learning/graphs/contributors">
-  <img src="" />
+  <img src="https://contrib.rocks/image?repo=synbol/Awesome-Parameter-Efficient-Transfer-Learning" />
 </a>
 
 ### :clap: Thanks to the above contributors for this excellent work！
@@ -595,10 +595,10 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 ## Citation
 If you find our survey and repository useful for your research, please consider citing our paper:
 ```bibtex
-@article{,
+@article{xin2024parameter,
   title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
-  author={Yi Xin, Siqi Luo, Haodi Zhou, Junlong Du, Xiaohong Liu, Yue Fan, Qing Li, Yuntao Du},
-  journal={Arxiv},
+  author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
+  journal={arXiv preprint arXiv:2402.02242},
   year={2024}
 }
 ```
