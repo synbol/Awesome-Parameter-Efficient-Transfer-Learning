@@ -13,21 +13,31 @@
 </div>
 
 ## Table of Contents
-- [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
+
 - [Keywords](#keywords)
+
 - [Papers](#papers)
+
   - [Addition-based Tuning](#addition-based-tuning)
     - [Adapter Tuning](#adapter-tuning)
+  
     - [Prompt Tuning](#prompt-tuning)
+  
     - [Prefix Tuning](#prefix-tuning)
+  
     - [Side Tuning](#side-tuning)
+  
   - [Partial-based Tuning](#partial-based-tuning)
     - [Specification Tuning](#specification-tuning)
+  
     - [Reparameter Tuning](#reparameter-tuning)
+  
   - [Unified Tuning](#unified-tuning)
+  
 - [Datasets](#datasets-of-visual-peft)
-- [Citation](#citation)
+
+- [Contribution](#contribution)
 
 ## Introduction
 Pre-trained vision models (PVMs) have shown great potential for adaptability across various downstream vision tasks. However, with state-of-the-art PVMs growing to billions or even trillions of parameters, the standard full fine-tuning paradigm is becoming unsustainable due to high computational and storage demands. In response, researchers are exploring **Parameter-Efficient Fine-Tuning (PEFT)**, which seeks to exceed the performance of full fine-tuning with minimal parameter modifications. This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**. This repository also introduces commonly used datasets and applications.
