@@ -531,6 +531,12 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/abs/2308.14604)][[Code]()] ![](https://img.shields.io/badge/SAM_PARSER-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
+- **[10]DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Models,** Arxiv 2023.
+  
+  *Shyam Marjit, Harshit Singh, Nityanand Mathur, Sayak Paul, Chia-Mu Yu, Pin-Yu Chen.*
+
+  [[Paper](https://arxiv.org/abs/2402.17412)][[Code](https://github.com/IBM/DiffuseKronA)] ![](https://img.shields.io/badge/DiffuseKronA-blue) ![](https://img.shields.io/badge/DiffusionModel-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+
 ### Unified Tuning
 - **[1] Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
