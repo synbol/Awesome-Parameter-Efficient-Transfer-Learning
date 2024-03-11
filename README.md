@@ -191,6 +191,15 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
   
   [[Paper](https://arxiv.org/abs/2303.18181)][[Code](https://github.com/Xiang-cd/unet-finetune)] ![](https://img.shields.io/badge/Unet_Finetune-blue) ![](https://img.shields.io/badge/Generate_Task-green) ![](https://img.shields.io/badge/Adapter_Design-orange)
 
+- **[24] Dynamic Adapter Meets Prompt Tuning: Parameter-Efficient Transfer Learning for Point Cloud Analysis,** CVPR 2024.
+
+  *Xin Zhou , Dingkang Liang , Wei Xu, Xingkui Zhu ,Yihan Xu, Zhikang Zou, Xiang Bai.*
+  
+  [[Paper](https://arxiv.org/abs/2403.01439)][[Code](https://github.com/LMD0311/DAPT)] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
+  
+
+
+
 ### Prompt Tuning
 - **[1] Visual Prompt Tuning,** ECCV 2022.
   
