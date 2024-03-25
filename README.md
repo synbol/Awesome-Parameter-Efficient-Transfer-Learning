@@ -1,5 +1,4 @@
 # <p align=center>𝓐𝔀𝓮𝓼𝓸𝓶𝓮 𝓟𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻-𝓔𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽 𝓣𝓻𝓪𝓷𝓼𝓯𝓮𝓻 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰</p>
-<!--# <p align=center>`Awesome Text📝-to-Image🌇`</p>-->
 <div align=center>
 
 <p>
@@ -8,11 +7,10 @@
  ![GitHub forks](https://img.shields.io/github/forks/synbol/Awesome-Parameter-Efficient-Transfer-Learning.svg?style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow&style=for-the-badge) 
  ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
- ![GitHub closed issues](https://img.shields.io/github/issues-closed/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=inactive&style=for-the-badge)
+ ![GitHub watching](https://img.shields.io/github/watching/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=inactive&style=for-the-badge)
  
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-(https://hits.seeyoufarm.com)
 </p>
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓹𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻-𝓮𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽 𝓽𝓻𝓪𝓷𝓼𝓯𝓮𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰.
