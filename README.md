@@ -66,7 +66,9 @@ If you find our survey and repository useful for your research, please cite it b
 - [Contribution](#contribution)
 
 ## 📝 <span id="head1"> *Introduction* </span>
-* **Parameter-Efficient Fine-Tuning (PEFT)** seeks to exceed the performance of full fine-tuning with minimal parameter modifications. This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**. This repository also introduces commonly used datasets and applications.
+* **Parameter-Efficient Fine-Tuning (PEFT)** seeks to exceed the performance of full fine-tuning with minimal parameter modifications.
+* This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**.
+* This repository also introduces commonly used datasets and applications.
 
 <div align="center">
 <img src="Overeview.png" width="100%" height="100%">
