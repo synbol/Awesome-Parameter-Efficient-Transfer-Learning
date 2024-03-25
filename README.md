@@ -7,7 +7,6 @@
  ![GitHub forks](https://img.shields.io/github/forks/synbol/Awesome-Parameter-Efficient-Transfer-Learning.svg?style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow&style=for-the-badge) 
  ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
- ![GitHub watching](https://img.shields.io/github/watching/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=inactive&style=for-the-badge)
  
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
