@@ -38,13 +38,7 @@ If you find our survey and repository useful for your research, please cite it b
   
 * [2023/01/01] **Awesome-Parameter-Efficient-Transfer-Learning** repo is created.
 
-# Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-<div align="center">
-<img src="Overeview.png" width="100%" height="100%">
-</div>
-
-## Table of Contents
+## 📚 Table of Contents
 - [Introduction](#introduction)
 
 - [Keywords](#keywords)
@@ -71,17 +65,21 @@ If you find our survey and repository useful for your research, please cite it b
 
 - [Contribution](#contribution)
 
-## Introduction
+## 📝 Introduction
 Pre-trained vision models (PVMs) have shown great potential for adaptability across various downstream vision tasks. However, with state-of-the-art PVMs growing to billions or even trillions of parameters, the standard full fine-tuning paradigm is becoming unsustainable due to high computational and storage demands. In response, researchers are exploring **Parameter-Efficient Fine-Tuning (PEFT)**, which seeks to exceed the performance of full fine-tuning with minimal parameter modifications. This repository provides a comprehensive overview and offer a systematic review of the latest advancements. It introduces a categorization criterion that classifies existing methods into three categories: **Addition-based Tuning, Partial-based Tuning, and Unified-based Tuning**. This repository also introduces commonly used datasets and applications.
 
-## Keywords
+<div align="center">
+<img src="Overeview.png" width="100%" height="100%">
+</div>
+
+## 💬 Keywords
 ![](https://img.shields.io/badge/Abbreviation-blue) The abbreviation of the work.
 
 ![](https://img.shields.io/badge/Application-green) The main explored task/application of the work.
 
 ![](https://img.shields.io/badge/Other-orange) Other important information of the work.
 
-## Papers
+## 🐌 Papers
 ### Addition-based Tuning
 ### Adapter Tuning
 - **[1] AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition,** NeurIPS 2022.
@@ -615,7 +613,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 
   [[Paper](https://arxiv.org/pdf/2312.07255.pdf)][Code] ![](https://img.shields.io/badge/GIST-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Framework-orange)
 
-## Datasets of Visual PEFT
+## 🎯 Datasets of Visual PEFT
 | Name | Paper | Link | Notes |
 |:-----|:-----:|:----:|:-----:|
 | **FGVC** | [Visual prompt tuning](https://arxiv.org/abs/2203.12119) | [Link](https://cornell.app.box.com/v/vptfgvcsplits) | FGVC consists of 5 benchmarked Fine-Grained Visual Classification tasks. |
@@ -629,7 +627,7 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 | **ADE20K** | [Semantic Understanding of Scenes through the ADE20K Dataset](https://arxiv.org/abs/1608.05442) | [Link](http://groups.csail.mit.edu/vision/datasets/ADE20K/) | Semantic Segmentation|
 | **PASCALVOC** | [The Pascal Visual Object Classes Challenge: A Retrospective](https://www.semanticscholar.org/paper/The-Pascal-Visual-Object-Classes-Challenge%3A-A-Everingham-Eslami/616b246e332573af1f4859aa91440280774c183a) | [Link](https://host.robots.ox.ac.uk/pascal/VOC/voc2012/) | Semantic Segmentation|
 
-## Contribution
+## 🧒 Contribution
 
 <!-- Copy-paste in your Readme.md file -->
 
