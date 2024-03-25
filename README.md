@@ -32,11 +32,11 @@ If you find our survey and repository useful for your research, please cite it b
 ```
 
 ## 🔥 News
-* [2024/03/01] "**Visual PEFT Library/Benchmark**" is created.
+* [2024/03/01] "**Visual PEFT Library/Benchmark**" repo is created.
 
 * [2024/02/01] "**Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey**" is released.
   
-* [2023/01/01] **Awesome-Parameter-Efficient-Transfer-Learning** repo is created.
+* [2023/01/01] "**Awesome-Parameter-Efficient-Transfer-Learning**" repo is created.
 
 ## 📚 Table of Contents
 - [Introduction](#introduction)
