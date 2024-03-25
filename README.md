@@ -16,6 +16,28 @@
  
 </div>
 
+## ⭐ Citation
+
+If you find our survey and repository useful for your research, please cite it below:
+
+```bibtex
+
+@article{xin2024parameter,
+  title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
+  author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
+  journal={arXiv preprint arXiv:2402.02242},
+  year={2024}
+}
+
+```
+
+## 🎑 News
+* [2024/03/01] "**Visual PEFT Library/Benchmark**" is created.
+
+* [2024/02/01] "**Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey**" is released.
+  
+* [2023/01/01] **Awesome-Parameter-Efficient-Transfer-Learning** repo is created.
+
 # Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 :fire: :fire: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
@@ -624,14 +646,3 @@ Pre-trained vision models (PVMs) have shown great potential for adaptability acr
 </a>
 
 ### :clap: Thanks to the above contributors for this excellent work！
-
-## Citation
-If you find our survey and repository useful for your research, please consider citing our paper:
-```bibtex
-@article{xin2024parameter,
-  title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
-  author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
-  journal={arXiv preprint arXiv:2402.02242},
-  year={2024}
-}
-```
