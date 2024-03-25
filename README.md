@@ -31,7 +31,7 @@ If you find our survey and repository useful for your research, please cite it b
 
 ```
 
-## 🎑 News
+## 🔥 News
 * [2024/03/01] "**Visual PEFT Library/Benchmark**" is created.
 
 * [2024/02/01] "**Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey**" is released.
@@ -39,14 +39,6 @@ If you find our survey and repository useful for your research, please cite it b
 * [2023/01/01] **Awesome-Parameter-Efficient-Transfer-Learning** repo is created.
 
 # Awesome Parameter-Efficient Fine-Tuning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
-:fire: :fire: This is a curated list of research resources in `Parameter-Efficient Fine-tuning` (**PEFT**), which also goes by other names, such as `Parameter-Efficient Transfer Learning` (**PETL**). 
-
-:fire: :fire: In this repository, we have systematically examined over 100 papers. If you are interested, consider reading our recent survey paper [Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey](https://arxiv.org/abs/2402.02242).
-
-:fire: :fire: This repository is actively maintained. Pull requests or direct messages are welcome.
-
-:fire: :fire: **Visual PEFT Library/Benchmark is coming soon.**
 
 <div align="center">
 <img src="Overeview.png" width="100%" height="100%">
