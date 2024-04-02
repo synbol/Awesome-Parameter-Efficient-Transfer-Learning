@@ -475,7 +475,7 @@ If you find our survey and repository useful for your research, please cite it b
   
   *Mercea, Otniel-Bogdan and Gritsenko, Alexey and  Schmid, Cordelia and Arnab, Anurag.*
 
-  [[Paper]((https://arxiv.org/pdf/2311.17241.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Visual Adaptation-green) ![](https://img.shields.io/badge/Param&Memory&Time&Inference_Efficient-orange)
+  [[Paper]((https://arxiv.org/pdf/2311.17241.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Image_and_Video_Classification-green) ![](https://img.shields.io/badge/Param&Memory&Time&Inference_Efficient-orange)
 
 
 
