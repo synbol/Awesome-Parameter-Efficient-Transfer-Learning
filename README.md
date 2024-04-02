@@ -441,23 +441,41 @@ If you find our survey and repository useful for your research, please cite it b
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_Side_Adapter_Network_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2023_paper.html)][[Code](https://mendelxu.github.io/SAN/)] ![](https://img.shields.io/badge/SAN-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param_Efficient-orange)
 
-- **[5] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
+- **[5] Res-Tuning: A Flexible and Efficient Tuning Paradigm via Unbinding Tuner from Backbone,** NeurIPS 2023.
+  
+  *Jiang, Zeyinzi and Mao, Chaojie and Huang, Ziyuan and Ma, Ao and Lv, Yiliang and Shen, Yujun and Zhao, Deli and Zhou Jingren.*
+
+  [[Paper](https://arxiv.org/pdf/2310.19859.pdf)] [Code] ![](https://img.shields.io/badge/Res_Tuning-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+
+- **[6] DTL: Disentangled Transfer Learning for Visual Recognition,** AAAI 2024.
   
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
   [[Paper](https://arxiv.org/abs/2312.07856)][Code] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
-- **[6] Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** NeurIPS 2023.
+- **[7] Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** Arxiv 2023.
   
   *Yin, Dongshuo and Han, Xueting and Li, Bin and Feng, Hao and Bai, Jing.*
 
   [[Paper](https://arxiv.org/abs/2306.09729)][Code] ![](https://img.shields.io/badge/E3VA-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
-- **[7] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
+- **[8] Ladder Fine-tuning approach for SAM integrating complementary network,** Arxiv 2023.
   
   *Chai, Shurong and Jain, Rahul Kumar and Teng, Shiyu and Liu, Jiaqing and Li, Yinhao and others.*
 
   [[Paper](https://arxiv.org/abs/2306.12737)][[Code](https://github.com/11yxk/SAM-LST)] ![](https://img.shields.io/badge/SAM_LST-blue) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+
+- **[9] End-to-End Temporal Action Detection with 1B Parameters Across 1000 Frames,** CVPR 2024.
+  
+  *Liu, Shuming and Zhang, Chen-Lin and Zhao, Chen and Ghanem, Bernard.*
+
+  [[Paper](https://arxiv.org/pdf/2311.17241.pdf)] [Code] ![](https://img.shields.io/badge/AdaTAD-blue) ![](https://img.shields.io/badge/Temporal_Action_Detection-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+  
+- **[10] Time-, Memory- and Parameter-Efficient Visual Adaptation,** CVPR 2024.
+  
+  *Mercea, Otniel-Bogdan and Gritsenko, Alexey and  Schmid, Cordelia and Arnab, Anurag.*
+
+  [[Paper]((https://arxiv.org/pdf/2311.17241.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Visual Adaptation-green) ![](https://img.shields.io/badge/Param&Memory&Time&Inference_Efficient-orange)
 
 
 
