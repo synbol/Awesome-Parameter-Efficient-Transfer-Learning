@@ -496,7 +496,6 @@ If you find our survey and repository useful for your research, please cite it b
   [[Paper](https://arxiv.org/pdf/2404.00801.pdf)] [[Code](https://github.com/yeliudev/R2-Tuning)] ![](https://img.shields.io/badge/$R^2$-Tuning-blue) ![](https://img.shields.io/badge/Video_Temporal_Grounding-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 
-
 ### Partial-based Tuning
 ### Specification Tuning
 - **[1] Do Better ImageNet Models Transfer Better?,** CVPR 2019.
