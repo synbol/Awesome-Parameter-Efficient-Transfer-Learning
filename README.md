@@ -489,6 +489,11 @@ If you find our survey and repository useful for your research, please cite it b
 
   [[Paper](https://arxiv.org/pdf/2404.01282.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Temporal_Action_Localization-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
+- **[13] $R^2$-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding,** arXiv 2024.
+  
+  *Liu, Ye and He, Jixuan and Li, Wanhua and Kim, Junsik and Wei, Donglai and Pfister, Hanspeter and Chen, Chang Wen.*
+
+  [[Paper](https://arxiv.org/pdf/2404.00801.pdf)] [[Code](https://github.com/yeliudev/R2-Tuning)] ![](https://img.shields.io/badge/$R^2$_Tuning-blue) ![](https://img.shields.io/badge/Video_Temporal_Grounding-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 
 ### Partial-based Tuning
