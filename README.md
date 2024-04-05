@@ -477,6 +477,24 @@ If you find our survey and repository useful for your research, please cite it b
 
   [[Paper](https://arxiv.org/pdf/2311.17241.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Image_and_Video_Classification-green) ![](https://img.shields.io/badge/Param&Memory&Time&Inference_Efficient-orange)
 
+- **[11] Low-rank Attention Side-Tuning for Parameter-Efficient Fine-Tuning,** arXiv 2024.
+  
+  *Tang, Ningyuan and Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
+
+  [[Paper](https://arxiv.org/pdf/2402.04009.pdf)] [Code] ![](https://img.shields.io/badge/LAST-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+
+- **[12] LoSA: Long-Short-range Adapter for Scaling End-to-End Temporal Action Localization,** arXiv 2024.
+  
+  *Gupta, Akshita and Mittal, Gaurav and Magooda, Ahmed and Yu, Ye and Taylor, Graham W and Chen, Mei.*
+
+  [[Paper](https://arxiv.org/pdf/2404.01282.pdf)] [Code] ![](https://img.shields.io/badge/LoSA-blue) ![](https://img.shields.io/badge/Temporal_Action_Localization-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+
+- **[13] $ R\^{} 2$-Tuning: Efficient Image-to-Video Transfer Learning for Video Temporal Grounding,** arXiv 2024.
+  
+  *Liu, Ye and He, Jixuan and Li, Wanhua and Kim, Junsik and Wei, Donglai and Pfister, Hanspeter and Chen, Chang Wen.*
+
+  [[Paper](https://arxiv.org/pdf/2404.00801.pdf)] [[Code](https://github.com/yeliudev/R2-Tuning)] ![](https://img.shields.io/badge/R\^{} 2$-Tuning-blue) ![](https://img.shields.io/badge/Video_Temporal_Grounding-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+
 
 
 ### Partial-based Tuning
