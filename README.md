@@ -240,7 +240,7 @@ If you find our survey and repository useful for your research, please cite it b
   
   [[Paper](https://arxiv.org/abs/2403.01439)][[Code](https://github.com/LMD0311/DAPT)] ![](https://img.shields.io/badge/DAPT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
 
-  - **[27] MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation,** ArXiv 2024.
+- **[27] MoMA: Multimodal LLM Adapter for Fast Personalized Image Generation,** ArXiv 2024.
 
   *Kunpeng Song and Yizhe Zhu and Bingchen Liu and Qing Yan and Ahmed Elgammal and Xiao Yang.*
   
