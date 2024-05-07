@@ -407,7 +407,9 @@ If you find our survey and repository useful for your research, please cite it b
   [[Paper](https://arxiv.org/abs/2310.03059)][Code] ![](https://img.shields.io/badge/Point_PEFT-blue) ![](https://img.shields.io/badge/Point_Cloud-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 - **[26] E2VPT: An Effective and Efficient Approach for Visual Prompt Tuning,** ICCV 2023.
+  
   *Cheng, Han and Qifan, Wang and Yiming, Cui and Zhiwen, Cao and Wenguan, Wang and Siyuan, Qi and Dongfang, Liu*
+  
   [[Paper](https://arxiv.org/abs/2307.13770)][[Code](https://github.com/ChengHan111/E2VPT)] ![](https://img.shields.io/badge/E2VPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 
