@@ -480,7 +480,7 @@ If you find our survey and repository useful for your research, please cite it b
   
   *Fu, Minghao and Zhu, Ke and Wu, Jianxin.*
 
-  [[Paper](https://arxiv.org/abs/2312.07856)][Code] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
+  [[Paper](https://arxiv.org/abs/2312.07856)][[Code](https://github.com/heekhero/DTL)] ![](https://img.shields.io/badge/DTL-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)
 
 - **[7] Parameter-efficient is not sufficient: Exploring Parameter, Memory, and Time Efficient Adapter Tuning for Dense Predictions,** Arxiv 2023.
   
