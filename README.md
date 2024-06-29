@@ -2,18 +2,18 @@
 <div align=center>
 
 <p>
- 
+
  ![GitHub stars](https://img.shields.io/github/stars/synbol/Awesome-Parameter-Efficient-Transfer-Learning.svg?color=red&style=for-the-badge) 
  ![GitHub forks](https://img.shields.io/github/forks/synbol/Awesome-Parameter-Efficient-Transfer-Learning.svg?style=for-the-badge) 
  ![GitHub activity](https://img.shields.io/github/last-commit/synbol/Awesome-Parameter-Efficient-Transfer-Learning?color=yellow&style=for-the-badge) 
  ![GitHub issues](https://img.shields.io/github/issues/synbol/Awesome-Parameter-Efficient-Transfer-Learning?style=for-the-badge)
- 
+
  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 </p>
 
 𝓐 𝓬𝓸𝓵𝓵𝓮𝓬𝓽𝓲𝓸𝓷 𝓸𝓯 𝓻𝓮𝓼𝓸𝓾𝓻𝓬𝓮𝓼 𝓸𝓷 𝓹𝓪𝓻𝓪𝓶𝓮𝓽𝓮𝓻-𝓮𝓯𝓯𝓲𝓬𝓲𝓮𝓷𝓽 𝓽𝓻𝓪𝓷𝓼𝓯𝓮𝓻 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰.
- 
+
 </div>
 
 ## ⭐ <span id="head1"> *Citation* </span>
@@ -245,7 +245,24 @@ If you find our survey and repository useful for your research, please cite it b
   *Kunpeng Song and Yizhe Zhu and Bingchen Liu and Qing Yan and Ahmed Elgammal and Xiao Yang.*
   
   [[Paper](https://arxiv.org/pdf/2404.05674.pdf)][[Code](https://moma-adapter.github.io/)] ![](https://img.shields.io/badge/MoMA-blue) ![](https://img.shields.io/badge/Personalized_Image_Generation-green) ![](https://img.shields.io/badge/Adapter_with_Prompt-orange)
-  
+
+- **[28] Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation,** ICCV 2023.
+
+  *Zunnan Xu, Zhihong Chen, Yong Zhang, Yibing Song, Xiang Wan, Guanbin Li.*
+
+  [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Xu_Bridging_Vision_and_Language_Encoders_Parameter-Efficient_Tuning_for_Referring_Image_ICCV_2023_paper.pdf)][[Code](https://github.com/kkakkkka/ETRIS)]
+
+- **[29] Enhancing Fine-grained Multi-modal Alignment via Adapters: A Parameter-Efficient Training Framework for Referring Image Segmentation,** WANT @ ICML 2024.
+
+  *Zunnan Xu, Jiaqi Huang, Ting Liu, Yong Liu, Haonan Han, Kehong Yuan, Xiu Li.*
+
+  [[Paper](https://openreview.net/forum?id=bp8xXLi2Mp)][[Code](https://kkakkkka.github.io/dcris)] 
+
+- **[30] Sparse-Tuning: Adapting Vision Transformers with Efficient Fine-tuning and Inference,** ArXiv 2024.
+
+  *Ting Liu, Xuyang Liu, Liangtao Shi, Zunnan Xu, Siteng Huang, Yi Xin, Quanjun Yin.*
+
+  [[Paper](https://arxiv.org/pdf/2405.14700)][[Code](https://github.com/liuting20/Sparse-Tuning)]
 
 
 
