@@ -545,13 +545,13 @@ If you find our survey and repository useful for your research, please cite it b
   
   *Haiwen Diao, Bo Wan, Ying Zhang, Xu Jia, Huchuan Lu, Long Chen.*
 
-  [[Paper](https://arxiv.org/abs/2308.14316)] [[Code](https://github.com/Paranioar/UniPT)] ![](https://img.shields.io/badge/UniPT-blue) ![](https://img.shields.io/badge/Vision_and_Language_&_GLUE-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)  
+  [[Paper](https://arxiv.org/abs/2308.14316)] [[Code](https://github.com/Paranioar/UniPT)] ![](https://img.shields.io/badge/UniPT-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)  
 
 - **[15] SHERL: Synthesizing High Accuracy and Efficient Memory for Resource-Limited Transfer Learning,** ECCV 2024.
   
   *Haiwen Diao, Bo Wan, Xu Jia, Yunzhi Zhuge, Ying Zhang, Huchuan Lu, Long Chen.*
 
-  [[Paper](https://arxiv.org/abs/2407.07523)] [[Code](https://github.com/Paranioar/SHERL)] ![](https://img.shields.io/badge/SHERL-blue) ![](https://img.shields.io/badge/Vision_and_Language_&_GLUE-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)  
+  [[Paper](https://arxiv.org/abs/2407.07523)] [[Code](https://github.com/Paranioar/SHERL)] ![](https://img.shields.io/badge/SHERL-blue) ![](https://img.shields.io/badge/Vision_Language_&_GLUE_Task-green) ![](https://img.shields.io/badge/Param&Memory_Efficient-orange)  
 
 
 ### Partial-based Tuning
