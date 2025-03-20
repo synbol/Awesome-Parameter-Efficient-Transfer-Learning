@@ -612,6 +612,11 @@ If you find our survey and repository useful for your research, please cite it b
 
   [[Paper](https://arxiv.org/abs/2303.08566)][[Code](https://github.com/ziplab/SPT)] ![](https://img.shields.io/badge/SPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Importance_Parameter_Tuning-orange)
 
+- **[9] Gradient-based Parameter Selection for Efficient Fine-Tuning,** CVPR 2024.
+  
+  *Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.*
+  
+
 ### Reparameter Tuning
 - **[1] LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
