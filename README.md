@@ -684,6 +684,12 @@ If you find our survey and repository useful for your research, please cite it b
 
   [[Paper](https://arxiv.org/abs/2402.17412)][[Code](https://github.com/IBM/DiffuseKronA)] ![](https://img.shields.io/badge/DiffuseKronA-blue) ![](https://img.shields.io/badge/DiffusionModel-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
+- **[11]Expanding Sparse Tuning for Low Memory Usage,** NeurIPS 2024.
+  *Shufan Shen, Junshu Sun, Xiangyang Ji, Qingming Huang, Shuhui Wang.*
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8c420176b45e923cf99dee1d7356a763-Paper-Conference.pdf)][[Code](https://github.com/ssfgunner/SNELL)] ![](https://img.shields.io/badge/DiffuseKronA-blue) ![](https://img.shields.io/badge/DiffusionModel-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
+
+
+
 ### Unified Tuning
 - **[1] Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
