@@ -25,11 +25,7 @@ If you find our survey and repository useful for your research, please cite it b
 @article{xin2024parameter,
   title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
   author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
-  journal={arXiv preprint arXiv:2402.02242
-        
-        
-        
-        },
+  journal={arXiv preprint arXiv:2402.02242},
   year={2024}
 }
 
