@@ -25,7 +25,9 @@ If you find our survey and repository useful for your research, please cite it b
 @article{xin2024parameter,
   title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
   author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
-  journal={arXiv preprint arXiv:2402.02242},
+  journal={arXiv preprint arXiv:2402.02242
+        
+        },
   year={2024}
 }
 
@@ -565,7 +567,7 @@ If you find our survey and repository useful for your research, please cite it b
   
   *Junchen Fu, Xuri Ge, Xin Xin, Alexandros Karatzoglou, Ioannis Arapakis, Jie Wang, Joemon Jose.*
 
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657725)] [[Code](https://github.com/GAIR-Lab/IISAN)] ![](https://img.shields.io/badge/SHERL-blue) ![](https://img.shields.io/badge/Recommendation_&_Image_Text_Representation-green)![](https://img.shields.io/badge/Param&Memory&Time_Efficient-orange)  
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3626772.3657725)] [[Code](https://github.com/GAIR-Lab/IISAN)] ![](https://img.shields.io/badge/IISAN-blue) ![](https://img.shields.io/badge/Recommendation_&_Image_Text_Representation-green)![](https://img.shields.io/badge/Param&Memory&Time_Efficient-orange)  
 
 ### Partial-based Tuning
 ### Specification Tuning
