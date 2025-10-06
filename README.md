@@ -688,6 +688,11 @@ If you find our survey and repository useful for your research, please cite it b
   *Shufan Shen, Junshu Sun, Xiangyang Ji, Qingming Huang, Shuhui Wang.*
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/8c420176b45e923cf99dee1d7356a763-Paper-Conference.pdf)][[Code](https://github.com/ssfgunner/SNELL)] ![](https://img.shields.io/badge/DiffuseKronA-blue) ![](https://img.shields.io/badge/DiffusionModel-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
 
+ - **[12]PointLoRA: Low-Rank Adaptation with Token Selection for Point Cloud Learning,** CVPR 2025.
+   *Song Wang, Xiaolu Liu, Lingdong Kong, Jianyun Xu, Chunyong Hu, Gongfan Fang, Wentong Li, Jianke Zhu, Xinchao Wang.*
+   [[Paper](https://arxiv.org/abs/2504.16023)][[Code](https://github.com/songw-zju/PointLoRA)]
+   
+
 
 
 ### Unified Tuning
