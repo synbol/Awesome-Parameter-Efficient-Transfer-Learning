@@ -36,7 +36,7 @@ If you find our survey and repository useful for your research, please cite it b
 
 * [2024/02/01] "**Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey**" is released.
   
-* [2023/01/01] "**Awesome-Parameter-Efficient-Transfer-Learning**" repo is created.
+* [2024/01/01] "**Awesome-Parameter-Efficient-Transfer-Learning**" repo is created.
 
 ## 📚 <span id="head1"> *Table of Contents* </span>
 - [Introduction](#introduction)
