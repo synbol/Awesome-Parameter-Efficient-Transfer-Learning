@@ -16,21 +16,6 @@
 
 </div>
 
-## ⭐ <span id="head1"> *Citation* </span>
-
-If you find our survey and repository useful for your research, please cite it below:
-
-```bibtex
-
-@article{xin2024parameter,
-  title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
-  author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
-  journal={arXiv preprint arXiv:2402.02242},
-  year={2024}
-}
-
-```
-
 ## 🔥 <span id="head1"> *News* </span>
 * [2024/03/01] "**Visual PEFT Library/Benchmark**" repo is created.
 
@@ -759,3 +744,19 @@ If you find our survey and repository useful for your research, please cite it b
 </a>
 
 ### :clap: Thanks to the above contributors for this excellent work！
+
+
+## ⭐ <span id="head1"> *Citation* </span>
+
+If you find our survey and repository useful for your research, please cite it below:
+
+```bibtex
+
+@article{xin2024parameter,
+  title={Parameter-Efficient Fine-Tuning for Pre-Trained Vision Models: A Survey},
+  author={Xin, Yi and Luo, Siqi and Zhou, Haodi and Du, Junlong and Liu, Xiaohong and Fan, Yue and Li, Qing and Du, Yuntao},
+  journal={arXiv preprint arXiv:2402.02242},
+  year={2024}
+}
+
+```
