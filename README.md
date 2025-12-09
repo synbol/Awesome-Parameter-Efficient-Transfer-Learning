@@ -242,6 +242,12 @@
 
   [[Paper](https://arxiv.org/pdf/2405.14700)][[Code](https://github.com/liuting20/Sparse-Tuning)]
 
+- **[30] PAVE: Patching and Adapting Video Large Language Models,** CVPR 2025.
+
+  *Zhuoming Liu, Yiquan Li, Khoi Duc Nguyen, Yiwu Zhong, Yin Li.*
+
+  [[Paper](https://arxiv.org/abs/2503.19794)][[Code](https://github.com/dragonlzm/PAVE)]
+
 
 
 ### Prompt Tuning
