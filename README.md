@@ -49,7 +49,7 @@
 * This repository also introduces commonly used datasets and applications.
 
 <div align="center">
-<img src="Overeview.png" width="100%" height="100%">
+<img src="Overview.png" width="100%" height="100%">
 </div>
 
 ## 💬 <span id="head1"> *Keywords* </span>
