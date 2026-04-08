@@ -683,6 +683,10 @@
 
 
 
+- **S₀ Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models,** arXiv 2026. ![](https://img.shields.io/badge/S₀_Tuning-blue) ![](https://img.shields.io/badge/Code_Generation-green) ![](https://img.shields.io/badge/Recurrent_State-orange)
+
+  *Jack Young.* [[Paper](https://arxiv.org/abs/2604.01168)][[Code](https://github.com/JackYoung27/s0-tuning)]
+
 ### Unified Tuning
 - **[1] Towards a Unified View of Parameter-Efficient Transfer Learning,** ICLR 2022.
 
