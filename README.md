@@ -679,6 +679,12 @@
    *Song Wang, Xiaolu Liu, Lingdong Kong, Jianyun Xu, Chunyong Hu, Gongfan Fang, Wentong Li, Jianke Zhu, Xinchao Wang.*
    
    [[Paper](https://arxiv.org/abs/2504.16023)][[Code](https://github.com/songw-zju/PointLoRA)]
+
+- **[13] LLMs Meet Finance: Fine-Tuning Foundation Models for the Open FinLLM Leaderboard,** Arxiv 2025.
+
+  *Varun Rao, Youran Sun, Mahendra Kumar, Tejas Mutneja, Agastya Mukherjee, Haizhao Yang.*
+
+  [[Paper](https://arxiv.org/pdf/2504.13125)] ![](https://img.shields.io/badge/LoRA-blue) ![](https://img.shields.io/badge/Financial_NLP-green) ![](https://img.shields.io/badge/Weight_Tuning-orange)
    
 
 
