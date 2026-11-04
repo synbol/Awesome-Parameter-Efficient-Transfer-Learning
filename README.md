@@ -601,6 +601,12 @@
   *Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.*
   
 
+- **[10] SMT: Fine-Tuning Large Language Models with Sparse Matrices,** ICLR 2025.
+  
+  *Haoze He, Juncheng Billy Li, Xuan Jiang, Heather Miller.*
+
+  [[Paper](https://openreview.net/forum?id=GbgCRJedQ7)][[Code](https://github.com/HectorHHZ/Sparse_Matrix_Tuning)] ![](https://img.shields.io/badge/SMT-blue) ![](https://img.shields.io/badge/LLM_Reasoning-green) ![](https://img.shields.io/badge/Importance_Parameter_Tuning-orange)
+
 ### Reparameter Tuning
 - **[1] LoRA: Low-Rank Adaptation of Large Language Models.** NeurIPS 2021.
 
