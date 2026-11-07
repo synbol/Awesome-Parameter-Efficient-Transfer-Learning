@@ -250,6 +250,12 @@
 
 
 
+- **[31] AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation,** NeurIPS 2024.
+
+  *Yuhan Zhu, Yuyang Ji, Zhiyu Zhao, Gangshan Wu, Limin Wang.*
+
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html)][[Code](https://github.com/MCG-NJU/AWT)] ![](https://img.shields.io/badge/AWT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Multimodal_Adapter-orange)
+
 ### Prompt Tuning
 - **[1] Visual Prompt Tuning,** ECCV 2022.
   
@@ -421,6 +427,12 @@
 
 
 
+
+- **[28] Efficient Test-Time Prompt Tuning for Vision-Language Models,** IJCV 2026.
+
+  *Yuhan Zhu, Guozhen Zhang, Chen Xu, Haocheng Shen, Xiaoxin Chen, Gangshan Wu, Limin Wang.*
+
+  [[Paper](https://link.springer.com/article/10.1007/s11263-026-03019-3)][[arXiv](https://arxiv.org/abs/2408.05775)] ![](https://img.shields.io/badge/Self--TPT-blue) ![](https://img.shields.io/badge/Image_Classification-green) ![](https://img.shields.io/badge/Embedding_Level-orange)
 
 ### Prefix Tuning
 - **[1] Prefix-Tuning: Optimizing Continuous Prompts for Generation,** ACL 2021.
